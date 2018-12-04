@@ -49,19 +49,17 @@ public class Advanced_test_6_2 {
 		// 打印出线程名
 
 		loger = Logger.getLogger("This is a log for developer!");
-		FileHandler fh = null;
 		try {
-
-			fh = new FileHandler(Thread.currentThread().getStackTrace()[1].getClassName().concat(".log"), true);
+			FileHandler fh = new FileHandler(Thread.currentThread().getStackTrace()[1].getClassName().concat(".log"), true);
+			loger.addHandler(fh);
+			SimpleFormatter sf = new SimpleFormatter();
+			fh.setFormatter(sf);
 		} catch (SecurityException e1) {
 			e1.printStackTrace();
 		} catch (IOException e1) {
 			e1.printStackTrace();
 		}
-		loger.addHandler(fh);
 		loger.setLevel(Level.ALL);
-		SimpleFormatter sf = new SimpleFormatter();
-		fh.setFormatter(sf);
 		loger.log(Level.INFO, "Main Thread has started!so the process has worked!");
 
 		// 如果要成立一个物流公司，先得去成立一个物流中心，招募快递员，最后才能接收包裹订单。
@@ -86,11 +84,17 @@ public class Advanced_test_6_2 {
 
 	}
 
+	/**
+	 * @see 任务生成工厂
+	 * @author hxy
+	 *
+	 */
+
 	class SumbmitFactory extends Thread {
 		private Dispather dispather;
-		int ThreadNumber=0;
-		int TaskNumer=1;
-		double Time=0;
+		int ThreadNumber = 0;
+		int TaskNumer = 1;
+		double Time = 0;
 
 		public SumbmitFactory() {
 
@@ -103,18 +107,18 @@ public class Advanced_test_6_2 {
 		}
 
 		public void run() {
-		
+
 			// 读取xml文件
 			try {
 				File f = new File("config.xml");
 				DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
 				DocumentBuilder builder = factory.newDocumentBuilder();
 				Document doc = builder.parse(f);
-				
-				 ThreadNumber =Integer.parseInt( doc.getElementsByTagName("NUMBER").item(0).getFirstChild().getNodeValue());
-				 TaskNumer = Integer.parseInt( doc.getElementsByTagName("NUMBER").item(1).getFirstChild().getNodeValue());
-				 Time =Double.parseDouble( doc.getElementsByTagName("NUMBER").item(2).getFirstChild().getNodeValue());
-				
+
+				ThreadNumber = Integer
+						.parseInt(doc.getElementsByTagName("NUMBER").item(0).getFirstChild().getNodeValue());
+				TaskNumer = Integer.parseInt(doc.getElementsByTagName("NUMBER").item(1).getFirstChild().getNodeValue());
+				Time = Double.parseDouble(doc.getElementsByTagName("NUMBER").item(2).getFirstChild().getNodeValue());
 
 			} catch (Exception e) {
 				e.printStackTrace();
@@ -131,7 +135,6 @@ public class Advanced_test_6_2 {
 						int index = 0;
 						while (index < TaskNumer) {
 
-							// char c = ' ';
 							Dispathers c = null;
 							int x = (int) (1 + Math.random() * 3);
 
@@ -149,9 +152,7 @@ public class Advanced_test_6_2 {
 								loger.log(Level.WARNING, "c = null !");
 								break;
 							}
-
-							// execute time shi
-							// 这个执行的时间越大，越好，太小的很混乱，这个涉及到CPU时间片的切换
+							// execute time：这个执行的时间越大，越好，太小的很混乱，这个涉及到CPU时间片的切换
 							long time = (long) (Math.random() * Time);
 
 							String uuid = UUID.randomUUID().toString().replaceAll("-", "");
@@ -166,11 +167,16 @@ public class Advanced_test_6_2 {
 					}
 				}).start();
 
-				// ++index;
-
 			}
 		}
 	}
+
+	/**
+	 * 
+	 * @see 这个类是实现Runnable接口的（要实现分配，需要启动线程），主要是用来接收并分配任务
+	 * @author hxy
+	 *
+	 */
 
 	class Dispather implements Runnable {
 
@@ -183,6 +189,12 @@ public class Advanced_test_6_2 {
 		// 更改成有固定大小的，对于超出大小的任务就需要等待，然后再加入任务中。LinkedBlockingQueue是单向队列。
 		// 无界队列
 		private BlockingQueue<Submitter> bq = new LinkedBlockingQueue<>();
+
+		/**
+		 * 
+		 * @param c
+		 *            Submitter类型的参数，将封装的任务类Submitter加入LinkedBlockingQueue
+		 */
 
 		public void put(Submitter c) {
 			try {
@@ -284,6 +296,11 @@ public class Advanced_test_6_2 {
 		}
 	}
 
+	/**
+	 * @see 处理任务的工作单元
+	 * @author hxy
+	 *
+	 */
 	class TaskRunnable implements Runnable {
 
 		private Submitter submitter;
@@ -309,6 +326,12 @@ public class Advanced_test_6_2 {
 
 	}
 
+	/**
+	 * @see 提交任务的工作单元（Runnable接口实现）
+	 * @author hxy
+	 *
+	 */
+
 	class Submit implements Runnable {
 
 		private Dispather dispather;
@@ -332,6 +355,12 @@ public class Advanced_test_6_2 {
 		}
 
 	}
+
+	/**
+	 * @see 封住的任务类，属性有标记，任务内容，指定时间
+	 * @author hxy
+	 *
+	 */
 
 	class Submitter {
 

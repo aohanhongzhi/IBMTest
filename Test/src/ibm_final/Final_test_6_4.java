@@ -22,7 +22,6 @@ import javax.xml.parsers.DocumentBuilderFactory;
 
 import org.w3c.dom.Document;
 
-
 /**
  * 正常,没有问题,"高并发"多线程 加入enum
  * 
@@ -32,7 +31,8 @@ import org.w3c.dom.Document;
  * 6_2 改为线程池，应当充分的利用Java自带的数据结构与内置API
  * 
  * 
- * Final_test_6_3 : 先考虑时间，还是先考虑优先级？如果放大时间，那应该是先按时间处理，再处理优先级，如果是从优先级角度思考，同一优先级当然是按时间来分配。
+ * Final_test_6_3 :
+ * 先考虑时间，还是先考虑优先级？如果放大时间，那应该是先按时间处理，再处理优先级，如果是从优先级角度思考，同一优先级当然是按时间来分配。
  * 最后设计，先区分优先级，再区分指定时间。
  * 
  * @author deepin
@@ -43,7 +43,6 @@ enum Dispathers {
 	A, B, C
 }
 
-
 public class Final_test_6_4 {
 	static Logger loger;
 	// static volatile int index = 0;
@@ -53,19 +52,17 @@ public class Final_test_6_4 {
 		// 打印出线程名
 
 		loger = Logger.getLogger("This is a log for developer!");
-		FileHandler fh = null;
 		try {
-
-			fh = new FileHandler(Thread.currentThread().getStackTrace()[1].getClassName().concat(".log"), true);
+			FileHandler fh = new FileHandler(Thread.currentThread().getStackTrace()[1].getClassName().concat(".log"), true);
+			loger.addHandler(fh);
+			SimpleFormatter sf = new SimpleFormatter();
+			fh.setFormatter(sf);
 		} catch (SecurityException e1) {
 			e1.printStackTrace();
 		} catch (IOException e1) {
 			e1.printStackTrace();
 		}
-		loger.addHandler(fh);
 		loger.setLevel(Level.ALL);
-		SimpleFormatter sf = new SimpleFormatter();
-		fh.setFormatter(sf);
 		loger.log(Level.INFO, "Main Thread has started!so the process has worked!");
 
 		// 如果要成立一个物流公司，先得去成立一个物流中心，招募快递员，最后才能接收包裹订单。
@@ -92,9 +89,9 @@ public class Final_test_6_4 {
 
 	class SumbmitFactory extends Thread {
 		Dispather dispather;
-		int ThreadNumber=0;
-		int TaskNumer=1;
-		double Time=0;
+		int ThreadNumber = 0;
+		int TaskNumer = 1;
+		double Time = 0;
 
 		public SumbmitFactory() {
 
@@ -112,16 +109,15 @@ public class Final_test_6_4 {
 				DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
 				DocumentBuilder builder = factory.newDocumentBuilder();
 				Document doc = builder.parse(f);
-				
-				 ThreadNumber =Integer.parseInt( doc.getElementsByTagName("NUMBER").item(0).getFirstChild().getNodeValue());
-				 TaskNumer = Integer.parseInt( doc.getElementsByTagName("NUMBER").item(1).getFirstChild().getNodeValue());
-				 Time =Double.parseDouble( doc.getElementsByTagName("NUMBER").item(2).getFirstChild().getNodeValue());
-				
+
+				ThreadNumber = Integer
+						.parseInt(doc.getElementsByTagName("NUMBER").item(0).getFirstChild().getNodeValue());
+				TaskNumer = Integer.parseInt(doc.getElementsByTagName("NUMBER").item(1).getFirstChild().getNodeValue());
+				Time = Double.parseDouble(doc.getElementsByTagName("NUMBER").item(2).getFirstChild().getNodeValue());
 
 			} catch (Exception e) {
 				e.printStackTrace();
 			}
-
 
 			// 这里启动10个线程,每个线程里面再提交10个任务
 			for (int i = 0; i < ThreadNumber; ++i) {
@@ -133,7 +129,6 @@ public class Final_test_6_4 {
 
 						int index = 0;
 						while (index < TaskNumer) {
-
 
 							// char c = ' ';
 							Dispathers c = null;
@@ -153,8 +148,8 @@ public class Final_test_6_4 {
 								loger.log(Level.WARNING, "c == null !");
 								break;
 							}
-							
-							//time 
+
+							// time
 							long time = (long) (Math.random() * Time);
 
 							// priority
@@ -164,7 +159,7 @@ public class Final_test_6_4 {
 							int priority = random.nextInt(max) % (max - min + 1) + min;
 
 							String uuid = UUID.randomUUID().toString().replaceAll("-", "");
-							Submitter submitter = new Final_test_6_4().new Submitter(c, uuid,time, priority);
+							Submitter submitter = new Final_test_6_4().new Submitter(c, uuid, time, priority);
 
 							// 通过Unix时间戳无法区分线程
 
@@ -188,7 +183,8 @@ public class Final_test_6_4 {
 		// 无界队列的实现，由于队列逻辑上为无穷大（其实物理上受限于内存等实际大小）， 其实查看了源代码之后发现还是存在一个capacity的，只是当capacity
 		// full 会进入等待然后再处理。
 		// 从某这角度来说，LinkedBlockingDeque是一个双向队列，所以在此处就不是太重要
-		// private BlockingQueue<Submitter> bq = new LinkedBlockingDeque<Submitter>();
+		// private BlockingQueue<Submitter> bq = new
+		// LinkedBlockingDeque<Submitter>();
 
 		// 更改成有固定大小的，对于超出大小的任务就需要等待，然后再加入任务中。LinkedBlockingQueue是单向队列。
 		// 无界队列
@@ -207,20 +203,25 @@ public class Final_test_6_4 {
 			// 分别获得三种上线的滴滴司机，对应设计了三个线程池，每个线程池有不同固定数量的线程在等待任务。
 			// 因为这个是单例模式，所以不好合并成一个线程池。
 
-		
-
 			// LinkedBlockingQueue 的大小需要合适设置，如果大小不合适，会导致任务自动抛弃
-//			LinkedBlockingQueue<Runnable> AQueue = new LinkedBlockingQueue<Runnable>();
-//			LinkedBlockingQueue<Runnable> BQueue = new LinkedBlockingQueue<Runnable>();
-			LinkedBlockingQueue<Runnable> CQueue = new LinkedBlockingQueue<Runnable>();
-			RejectedExecutionHandler handler = new ThreadPoolExecutor.DiscardPolicy();
+			// LinkedBlockingQueue<Runnable> AQueue = new
+			// LinkedBlockingQueue<Runnable>();
+			// LinkedBlockingQueue<Runnable> BQueue = new
+			// LinkedBlockingQueue<Runnable>();
+			// LinkedBlockingQueue<Runnable> CQueue = new
+			// LinkedBlockingQueue<Runnable>();
+			// RejectedExecutionHandler handler = new
+			// ThreadPoolExecutor.DiscardPolicy();
 			ScheduledThreadPoolExecutor AScheduledThreadPoolExecutor = new ScheduledThreadPoolExecutor(2);
-			
-//			ThreadPoolExecutor AthreadPool = new ThreadPoolExecutor(2, 5, 60, TimeUnit.NANOSECONDS, AQueue, handler);
-//
-//			ThreadPoolExecutor BthreadPool = new ThreadPoolExecutor(3, 6, 60, TimeUnit.NANOSECONDS, BQueue, handler);
-//
-//			ThreadPoolExecutor CthreadPool = new ThreadPoolExecutor(4, 7, 60, TimeUnit.NANOSECONDS, CQueue, handler);
+
+			// ThreadPoolExecutor AthreadPool = new ThreadPoolExecutor(2, 5, 60,
+			// TimeUnit.NANOSECONDS, AQueue, handler);
+			//
+			// ThreadPoolExecutor BthreadPool = new ThreadPoolExecutor(3, 6, 60,
+			// TimeUnit.NANOSECONDS, BQueue, handler);
+			//
+			// ThreadPoolExecutor CthreadPool = new ThreadPoolExecutor(4, 7, 60,
+			// TimeUnit.NANOSECONDS, CQueue, handler);
 
 			// dispatcher 一直分析队列里有没有数据，如果有立刻进行dispatch
 			while (true) {
@@ -228,22 +229,21 @@ public class Final_test_6_4 {
 				if (pq != null && !pq.isEmpty()) {
 					while (!pq.isEmpty()) {
 						submitter = pq.poll();
-	
-					//	CthreadPool.execute(new TaskRunnable(submitter));
+
+						// CthreadPool.execute(new TaskRunnable(submitter));
 						AScheduledThreadPoolExecutor.schedule(new TaskRunnable(submitter), submitter.getTime(),
 								TimeUnit.MICROSECONDS);
-						
+
 					}
-				} else
+				} else {
 					try {
-						Thread.sleep(0);
+						Thread.sleep(100);
 					} catch (InterruptedException e) {
 
 						e.printStackTrace();
 					}
-
+				}
 			}
-
 		}
 	}
 
@@ -265,8 +265,9 @@ public class Final_test_6_4 {
 		public void run() {
 
 			loger.log(Level.INFO,
-					String.format("%s \t Handler_%s, Task:%s \tTime:%s \t Priority:%d\n", Thread.currentThread().getName(),
-							String.valueOf(submitter.getFlag()), submitter.getTask(),submitter.getTime(), submitter.getPriority()));
+					String.format("%s \t Handler_%s, Task:%s \tTime:%s \t Priority:%d\n",
+							Thread.currentThread().getName(), String.valueOf(submitter.getFlag()), submitter.getTask(),
+							submitter.getTime(), submitter.getPriority()));
 
 		}
 
@@ -286,10 +287,11 @@ public class Final_test_6_4 {
 		public void run() {
 			synchronized (this) {
 				loger.log(Level.INFO,
-						String.format("%s \t Submitt:%s\t Task:%s \t Time:%s \tPriority：%d\n", Thread.currentThread().getName(),
-								String.valueOf(submitter.getFlag()), submitter.getTask(),submitter.getTime(), submitter.getPriority()));
+						String.format("%s \t Submitt:%s\t Task:%s \t Time:%s \tPriority：%d\n",
+								Thread.currentThread().getName(), String.valueOf(submitter.getFlag()),
+								submitter.getTask(), submitter.getTime(), submitter.getPriority()));
 				dispather.put(submitter);
-				
+
 			}
 		}
 
@@ -327,9 +329,8 @@ public class Final_test_6_4 {
 			this.task = task;
 			this.priority = priority;
 		}
-		
 
-		public Submitter(Dispathers flag, String task,long time, Integer priority) {
+		public Submitter(Dispathers flag, String task, long time, Integer priority) {
 			this.flag = flag;
 			this.task = task;
 			this.time = time;
@@ -362,7 +363,6 @@ public class Final_test_6_4 {
 
 		@Override
 		public int compareTo(Submitter o) {
-			// TODO Auto-generated method stub
 			return this.priority.compareTo(o.getPriority());
 		}
 

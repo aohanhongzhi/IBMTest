@@ -5,6 +5,10 @@ enum Cars {
     Cars(int p) {
         price = p;
     }
+    /**
+     * @param 参数为空
+     * @return 返回价格
+     */
     int getPrice() {
         return price;
     } 

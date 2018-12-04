@@ -39,27 +39,23 @@ enum Dispathers {
 
 
 public class Basic_test_6_2 {
-	static Logger loger;
-	//static volatile int index = 0;
+	static private Logger loger;
 
 	public static void main(String[] args) {
 
-		// 打印出线程名
-
 		loger = Logger.getLogger("This is a log for developer!");
-		FileHandler fh = null;
+	
 		try {
-			
-			fh = new FileHandler(Thread.currentThread().getStackTrace()[1].getClassName().concat(".log"), true);
+			FileHandler fh = new FileHandler(Thread.currentThread().getStackTrace()[1].getClassName().concat(".log"), true);
+			loger.addHandler(fh);
+			SimpleFormatter sf = new SimpleFormatter();
+			fh.setFormatter(sf);
 		} catch (SecurityException e1) {
 			e1.printStackTrace();
 		} catch (IOException e1) {
 			e1.printStackTrace();
 		}
-		loger.addHandler(fh);
 		loger.setLevel(Level.ALL);
-		SimpleFormatter sf = new SimpleFormatter();
-		fh.setFormatter(sf);
 		loger.log(Level.INFO, "Main Thread has started!so the process has worked!");
 
 		// 如果要成立一个物流公司，先得去成立一个物流中心，招募快递员，最后才能接收包裹订单。
@@ -87,7 +83,7 @@ public class Basic_test_6_2 {
 	}
 	
 	class SumbmitFactory extends Thread{
-		Dispather dispather;
+		private Dispather dispather;
 		
 		public SumbmitFactory() {
 			
@@ -120,7 +116,6 @@ public class Basic_test_6_2 {
 								e.printStackTrace();
 							}
 
-							//char c = ' ';
 							Dispathers c = null;
 							int x = (int) (1 + Math.random() * 3);
 
@@ -142,9 +137,6 @@ public class Basic_test_6_2 {
 							
 							String uuid = UUID.randomUUID().toString().replaceAll("-","");
 							Submitter submitter = new Basic_test_6_2().new Submitter(c,uuid);
-
-							
-							//通过Unix时间戳无法区分线程
 							
 							new Thread(new Basic_test_6_2().new Submit(dispather, submitter), "提交线程：".concat(uuid))
 									.start();
@@ -155,9 +147,6 @@ public class Basic_test_6_2 {
 						
 					}
 				}).start();
-				
-				
-				//++index;
 				
 			}
 		}
@@ -220,43 +209,35 @@ public class Basic_test_6_2 {
 
 						switch (submitter.getFlag()) {
 						case A:
-							// new Thread(new Basic_test_2().new
-							// HandlerA('A')).start();
-						//	threadPoolA.excecute(new TaskRunnable(submitter));
 							AthreadPool.execute(new TaskRunnable(submitter));
 							break;
 						case B:
-							// new Thread(new Basic_test_2().new
-							// HandlerB('B')).start();
 							BthreadPool.execute(new TaskRunnable(submitter));
 							break;
 						case C:
-							// new Thread(new Basic_test_2().new
-							// HandlerC('C')).start();
 							CthreadPool.execute(new TaskRunnable(submitter));
 							break;
-
 						default:
 							break;
 						}
 
 					}
-				} else
+				} else{
 					try {
-						Thread.sleep(0);
+						
+						Thread.sleep(100);
+						
 					} catch (InterruptedException e) {
-
 						e.printStackTrace();
 					}
-
+				}
 			}
-
 		}
 	}
 
 	class TaskRunnable implements Runnable {
 
-		Submitter submitter;
+		private Submitter submitter;
 
 		public TaskRunnable() {
 			
@@ -280,8 +261,8 @@ public class Basic_test_6_2 {
 
 	class Submit implements Runnable {
 
-		Dispather dispather;
-		Submitter submitter;
+		private Dispather dispather;
+		private Submitter submitter;
 
 		public Submit(Dispather dispather, Submitter submitter) {
 			this.dispather = dispather;
@@ -302,8 +283,8 @@ public class Basic_test_6_2 {
 
 	class Submitter {
 
-		Dispathers flag;
-		String task;
+		private Dispathers flag;
+		private String task;
 
 		public Submitter() {
 		}

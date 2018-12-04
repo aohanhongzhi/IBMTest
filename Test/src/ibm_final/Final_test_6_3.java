@@ -37,7 +37,6 @@ enum Dispathers {
 */
 public class Final_test_6_3 {
 	static Logger loger;
-	// static volatile int index = 0;
 
 	public static void main(String[] args) {
 
@@ -108,7 +107,6 @@ public class Final_test_6_3 {
 						while (index < 20) {
 
 
-							// char c = ' ';
 							Dispathers c = null;
 							int x = (int) (1 + Math.random() * 3);
 
@@ -139,7 +137,6 @@ public class Final_test_6_3 {
 							String uuid = UUID.randomUUID().toString().replaceAll("-", "");
 							Submitter submitter = new Final_test_6_3().new Submitter(c, uuid,time, priority);
 
-							// 通过Unix时间戳无法区分线程
 
 							new Thread(new Final_test_6_3().new Submit(dispather, submitter), "提交线程：".concat(uuid))
 									.start();
@@ -150,7 +147,6 @@ public class Final_test_6_3 {
 					}
 				}).start();
 
-				// ++index;
 
 			}
 		}
@@ -199,19 +195,12 @@ public class Final_test_6_3 {
 				Submitter submitter = null;
 				if (pq != null && !pq.isEmpty()) {
 					while (!pq.isEmpty()) {
+						
 						submitter = pq.poll();
-	
 						CthreadPool.execute(new TaskRunnable(submitter));
 		
-						
 					}
-				} else
-					try {
-						Thread.sleep(0);
-					} catch (InterruptedException e) {
-
-						e.printStackTrace();
-					}
+				} else;
 
 			}
 
