@@ -1,0 +1,1202 @@
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3 main
+信息: Main Thread has started!so the process has worked!
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：d3e2e865caf54e75af0f21efae152655 	 Submitt:C	 Task:d3e2e865caf54e75af0f21efae152655 	 Priority：9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：af9178c6246c4ffaa2ca5645ed6f34b6 	 Submitt:C	 Task:af9178c6246c4ffaa2ca5645ed6f34b6 	 Priority：9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：41f2caf073814a1faabbdb107524dfe3 	 Submitt:C	 Task:41f2caf073814a1faabbdb107524dfe3 	 Priority：7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：3991823a760744cc89caf169417c36d4 	 Submitt:B	 Task:3991823a760744cc89caf169417c36d4 	 Priority：5
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：775f31c8a858438e971d61727a33f3ba 	 Submitt:B	 Task:775f31c8a858438e971d61727a33f3ba 	 Priority：3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：414be321bd674681870a51390de61da4 	 Submitt:C	 Task:414be321bd674681870a51390de61da4 	 Priority：2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：00379c3451c9435eb19ad1c1a17438e1 	 Submitt:C	 Task:00379c3451c9435eb19ad1c1a17438e1 	 Priority：1
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：3148e9e5282148aaaf1f2374c229b0b5 	 Submitt:C	 Task:3148e9e5282148aaaf1f2374c229b0b5 	 Priority：5
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：4d6f797a841746d4b8327d8bdd16f53a 	 Submitt:A	 Task:4d6f797a841746d4b8327d8bdd16f53a 	 Priority：2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：fc6bd1da46054806b7fc199c2ce698af 	 Submitt:A	 Task:fc6bd1da46054806b7fc199c2ce698af 	 Priority：4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：8bc4bb6b759742bba351620efc5f12a5 	 Submitt:A	 Task:8bc4bb6b759742bba351620efc5f12a5 	 Priority：7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：598ab0394e3b4183a4661d5b29116a37 	 Submitt:A	 Task:598ab0394e3b4183a4661d5b29116a37 	 Priority：2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：232ab0bc5bc645d688788b66d607ed05 	 Submitt:A	 Task:232ab0bc5bc645d688788b66d607ed05 	 Priority：1
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:d3e2e865caf54e75af0f21efae152655 	 Priority:9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:00379c3451c9435eb19ad1c1a17438e1 	 Priority:1
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：4a377173d2bb4a50afc2c194eccee39b 	 Submitt:A	 Task:4a377173d2bb4a50afc2c194eccee39b 	 Priority：10
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：3834f9914fa045eb94b55a2e538547ee 	 Submitt:C	 Task:3834f9914fa045eb94b55a2e538547ee 	 Priority：2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：c4a01da6c1fe419e82618a05eab20d52 	 Submitt:B	 Task:c4a01da6c1fe419e82618a05eab20d52 	 Priority：3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：5e644118c7be4577a44db8531c3cf188 	 Submitt:A	 Task:5e644118c7be4577a44db8531c3cf188 	 Priority：9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：e8765fb211e14288af5de625cc830472 	 Submitt:C	 Task:e8765fb211e14288af5de625cc830472 	 Priority：4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：2e210b2f338e40189375fd5921886522 	 Submitt:B	 Task:2e210b2f338e40189375fd5921886522 	 Priority：3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：41b6c540195d442e87cc42c179ea2304 	 Submitt:A	 Task:41b6c540195d442e87cc42c179ea2304 	 Priority：4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：64dc2f2a1cd6407cb2ac8779436e0dbe 	 Submitt:A	 Task:64dc2f2a1cd6407cb2ac8779436e0dbe 	 Priority：8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：eff169c82c094024ae7cdb1507f5d47f 	 Submitt:A	 Task:eff169c82c094024ae7cdb1507f5d47f 	 Priority：5
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：dc1668f88bb441a6a4b95f83fca4304e 	 Submitt:A	 Task:dc1668f88bb441a6a4b95f83fca4304e 	 Priority：3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：1d828c20c0dd4196a6147457406cfa29 	 Submitt:C	 Task:1d828c20c0dd4196a6147457406cfa29 	 Priority：10
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：d26e22a496ec4e3a8472fa32bd9201f5 	 Submitt:B	 Task:d26e22a496ec4e3a8472fa32bd9201f5 	 Priority：6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：607b3f98c51b4531b13b857a7ed18e26 	 Submitt:B	 Task:607b3f98c51b4531b13b857a7ed18e26 	 Priority：7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：647b7623e11e4177829fd07d2013a971 	 Submitt:A	 Task:647b7623e11e4177829fd07d2013a971 	 Priority：4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：9e957fb669f04671a22ab6da3b69a963 	 Submitt:C	 Task:9e957fb669f04671a22ab6da3b69a963 	 Priority：5
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：b6c8b8fa3166403fb6cab12682dfe516 	 Submitt:A	 Task:b6c8b8fa3166403fb6cab12682dfe516 	 Priority：8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：4e2e00b0887b4374be2c302b387f5013 	 Submitt:B	 Task:4e2e00b0887b4374be2c302b387f5013 	 Priority：5
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：4d1198e58a154715bfa1dfb33bc334f9 	 Submitt:B	 Task:4d1198e58a154715bfa1dfb33bc334f9 	 Priority：4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：3ef59701df334b2a9080276f5a915fb6 	 Submitt:B	 Task:3ef59701df334b2a9080276f5a915fb6 	 Priority：6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：5f30219675c445b994a33b1d2e23c2fd 	 Submitt:A	 Task:5f30219675c445b994a33b1d2e23c2fd 	 Priority：7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：dd5c87a1c00e493099543056bd5863fa 	 Submitt:C	 Task:dd5c87a1c00e493099543056bd5863fa 	 Priority：9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：620d518c27934853aa362f0ebc3cb6ad 	 Submitt:B	 Task:620d518c27934853aa362f0ebc3cb6ad 	 Priority：4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：7b5dc7d56aa64b22bdd2ecb43d29705c 	 Submitt:C	 Task:7b5dc7d56aa64b22bdd2ecb43d29705c 	 Priority：2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：ac722085452348a794a8f96ddf811b8a 	 Submitt:B	 Task:ac722085452348a794a8f96ddf811b8a 	 Priority：3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：50d4831d9d39499399d94da3f9c4d8bc 	 Submitt:A	 Task:50d4831d9d39499399d94da3f9c4d8bc 	 Priority：2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：a313910eed214e7f85e2829d088dd5cc 	 Submitt:C	 Task:a313910eed214e7f85e2829d088dd5cc 	 Priority：2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:9e957fb669f04671a22ab6da3b69a963 	 Priority:5
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:e8765fb211e14288af5de625cc830472 	 Priority:4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:c4a01da6c1fe419e82618a05eab20d52 	 Priority:3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:41f2caf073814a1faabbdb107524dfe3 	 Priority:7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:775f31c8a858438e971d61727a33f3ba 	 Priority:3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:2e210b2f338e40189375fd5921886522 	 Priority:3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-4 	 Handler_C, Task:3834f9914fa045eb94b55a2e538547ee 	 Priority:2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：e5f1f6c08ebc4aa5a55ae2e8e2f8a00b 	 Submitt:C	 Task:e5f1f6c08ebc4aa5a55ae2e8e2f8a00b 	 Priority：6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：75aaea8f534e4f86bd275b66b17098a6 	 Submitt:C	 Task:75aaea8f534e4f86bd275b66b17098a6 	 Priority：7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：f7d5401be558401d9143ca831b5829a9 	 Submitt:A	 Task:f7d5401be558401d9143ca831b5829a9 	 Priority：6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：54a377310e35490e820b168054d4efda 	 Submitt:C	 Task:54a377310e35490e820b168054d4efda 	 Priority：7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：08dc8159ff9a4142a45592a02fe1efbc 	 Submitt:A	 Task:08dc8159ff9a4142a45592a02fe1efbc 	 Priority：2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：16cf787b11df49e28a93686f41e679fe 	 Submitt:A	 Task:16cf787b11df49e28a93686f41e679fe 	 Priority：2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：e53cd074ff7c48e6821cb3eee2afdbb2 	 Submitt:A	 Task:e53cd074ff7c48e6821cb3eee2afdbb2 	 Priority：3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：9056765540b84c9182761abda4d90b77 	 Submitt:C	 Task:9056765540b84c9182761abda4d90b77 	 Priority：4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：7cc0dba414554f5a82a1595f89d4d08e 	 Submitt:C	 Task:7cc0dba414554f5a82a1595f89d4d08e 	 Priority：8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：a2962627c73d48289c1602d56c6b3bd9 	 Submitt:A	 Task:a2962627c73d48289c1602d56c6b3bd9 	 Priority：6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：2f5bdaa750c24b3bb143cdec8b820cd1 	 Submitt:C	 Task:2f5bdaa750c24b3bb143cdec8b820cd1 	 Priority：10
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：7152951b0ea34b5094a4e0dd5cafc0db 	 Submitt:C	 Task:7152951b0ea34b5094a4e0dd5cafc0db 	 Priority：3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：e398266085d94fd7852e80bd6569038d 	 Submitt:A	 Task:e398266085d94fd7852e80bd6569038d 	 Priority：3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：ee961463d30140688087eafe07730af5 	 Submitt:A	 Task:ee961463d30140688087eafe07730af5 	 Priority：2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：d5f45ceee9ab49e99151d5717adc24e5 	 Submitt:B	 Task:d5f45ceee9ab49e99151d5717adc24e5 	 Priority：4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：5af2d8a729f045c18a43c0de3b9814cb 	 Submitt:C	 Task:5af2d8a729f045c18a43c0de3b9814cb 	 Priority：3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：f1afe4636002408c8f2655037988a8a0 	 Submitt:A	 Task:f1afe4636002408c8f2655037988a8a0 	 Priority：9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：2d36caebcf8648a88ab8932228ed757f 	 Submitt:B	 Task:2d36caebcf8648a88ab8932228ed757f 	 Priority：8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：c9ed52f2ad96439cb935cf0b050374ce 	 Submitt:A	 Task:c9ed52f2ad96439cb935cf0b050374ce 	 Priority：7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：1abb8e96940f4b64821079420f4bc2cd 	 Submitt:A	 Task:1abb8e96940f4b64821079420f4bc2cd 	 Priority：3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：09d132469e4c4df0831104ad6c137e53 	 Submitt:C	 Task:09d132469e4c4df0831104ad6c137e53 	 Priority：8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：8b648d90090b47d6bcd60b455ec8a25d 	 Submitt:B	 Task:8b648d90090b47d6bcd60b455ec8a25d 	 Priority：3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：6c32b1e641f64797b9c4cc97305c7340 	 Submitt:A	 Task:6c32b1e641f64797b9c4cc97305c7340 	 Priority：8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：09d3af7987da4eb585a1b03d6bad758a 	 Submitt:A	 Task:09d3af7987da4eb585a1b03d6bad758a 	 Priority：10
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：38e59f80d3a545a9ae263583fa06c090 	 Submitt:B	 Task:38e59f80d3a545a9ae263583fa06c090 	 Priority：1
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：55a2659ae2214ecfa5170ea04b7017f7 	 Submitt:A	 Task:55a2659ae2214ecfa5170ea04b7017f7 	 Priority：6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：36f91aff7a6d42ef8c669d605290cafa 	 Submitt:B	 Task:36f91aff7a6d42ef8c669d605290cafa 	 Priority：8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：cacba1ef45d749c1896c696cfddbf122 	 Submitt:A	 Task:cacba1ef45d749c1896c696cfddbf122 	 Priority：6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：75bba353dbd64481ab890ece60d13ab0 	 Submitt:B	 Task:75bba353dbd64481ab890ece60d13ab0 	 Priority：5
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：97eb2c6dff3a47f294bd69c1276ecb03 	 Submitt:C	 Task:97eb2c6dff3a47f294bd69c1276ecb03 	 Priority：3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：54834c81a8a04692a14f9a4fb5b4bbeb 	 Submitt:B	 Task:54834c81a8a04692a14f9a4fb5b4bbeb 	 Priority：7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：fe23ad8e69224e84a4720c65a526f894 	 Submitt:A	 Task:fe23ad8e69224e84a4720c65a526f894 	 Priority：9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：70acec6ca3ea49ec9d4ebc0dda1ca18b 	 Submitt:C	 Task:70acec6ca3ea49ec9d4ebc0dda1ca18b 	 Priority：4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：720ea5e4d8fe401e907a90dd7f7bebf6 	 Submitt:A	 Task:720ea5e4d8fe401e907a90dd7f7bebf6 	 Priority：5
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：c5860aba9839497fb3ffaaf9576901c8 	 Submitt:A	 Task:c5860aba9839497fb3ffaaf9576901c8 	 Priority：5
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：b283225b95fe4494a5e7dc23ff12e757 	 Submitt:C	 Task:b283225b95fe4494a5e7dc23ff12e757 	 Priority：9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：d6fdd3ea4e0f4c5eae91a4ae4d318c49 	 Submitt:A	 Task:d6fdd3ea4e0f4c5eae91a4ae4d318c49 	 Priority：7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：49b475188afd4e19b8a60a1901a2e458 	 Submitt:A	 Task:49b475188afd4e19b8a60a1901a2e458 	 Priority：2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：a349392887a0420da2abd71baeab0135 	 Submitt:C	 Task:a349392887a0420da2abd71baeab0135 	 Priority：6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：2d5c692d23104ad381c81a42c95fc7b3 	 Submitt:C	 Task:2d5c692d23104ad381c81a42c95fc7b3 	 Priority：6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：edc44884eca04e43b3f5fd1eee375da9 	 Submitt:C	 Task:edc44884eca04e43b3f5fd1eee375da9 	 Priority：7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：1e1f02dbe0104d619a562133102be910 	 Submitt:A	 Task:1e1f02dbe0104d619a562133102be910 	 Priority：4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：522aded7ed05466d8baeb24c090f9889 	 Submitt:A	 Task:522aded7ed05466d8baeb24c090f9889 	 Priority：1
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：fe57fbb24eeb462aad23ead792c64004 	 Submitt:B	 Task:fe57fbb24eeb462aad23ead792c64004 	 Priority：9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：0bed3ab6974542d6902ce23269eb1724 	 Submitt:C	 Task:0bed3ab6974542d6902ce23269eb1724 	 Priority：10
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：ddaf1a830c3c4a72b5ef9da0a31683a4 	 Submitt:C	 Task:ddaf1a830c3c4a72b5ef9da0a31683a4 	 Priority：10
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：e6e56fe940794c5187536f3e186768bc 	 Submitt:A	 Task:e6e56fe940794c5187536f3e186768bc 	 Priority：8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：185b8d1155b4453d89c21b7a1313793c 	 Submitt:A	 Task:185b8d1155b4453d89c21b7a1313793c 	 Priority：8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：371fbf3119ff4138b02360abe40296e1 	 Submitt:A	 Task:371fbf3119ff4138b02360abe40296e1 	 Priority：2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：4e1da6f09ded454382f870f2135a3adb 	 Submitt:A	 Task:4e1da6f09ded454382f870f2135a3adb 	 Priority：7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：0b77121f5e19474aa0afa48bb964b502 	 Submitt:C	 Task:0b77121f5e19474aa0afa48bb964b502 	 Priority：8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：204cebfb74d24013ae8df3f10aae972c 	 Submitt:C	 Task:204cebfb74d24013ae8df3f10aae972c 	 Priority：3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：59faa65a0443436c94ff08b89c7155f4 	 Submitt:B	 Task:59faa65a0443436c94ff08b89c7155f4 	 Priority：2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：1ada8cb55b404bc28cc9fac040bc16d5 	 Submitt:C	 Task:1ada8cb55b404bc28cc9fac040bc16d5 	 Priority：6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：12c31cd63c7645fe8b0d5932934a1b6c 	 Submitt:A	 Task:12c31cd63c7645fe8b0d5932934a1b6c 	 Priority：4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：626972c3725f48e98df031efae01ccfb 	 Submitt:B	 Task:626972c3725f48e98df031efae01ccfb 	 Priority：10
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：ad255d75240c47d3a4d75740c45dd4a2 	 Submitt:B	 Task:ad255d75240c47d3a4d75740c45dd4a2 	 Priority：1
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：b68e06f0874b4b9c935e90f2216112b8 	 Submitt:B	 Task:b68e06f0874b4b9c935e90f2216112b8 	 Priority：7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：2839cbe31b2d4b9d889ed0927be50568 	 Submitt:B	 Task:2839cbe31b2d4b9d889ed0927be50568 	 Priority：5
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：111dc83b8b1f4d1c94c4ce438bbef5d9 	 Submitt:C	 Task:111dc83b8b1f4d1c94c4ce438bbef5d9 	 Priority：4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：9cd097950e5c4996bc0143fb45f5c08e 	 Submitt:C	 Task:9cd097950e5c4996bc0143fb45f5c08e 	 Priority：6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：9cfd61cfc6424f3d9d9766449bf13f83 	 Submitt:A	 Task:9cfd61cfc6424f3d9d9766449bf13f83 	 Priority：6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：9e9578f0a3474c9d9f09b4271ac92b0b 	 Submitt:C	 Task:9e9578f0a3474c9d9f09b4271ac92b0b 	 Priority：4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：bceb1ba2737146dda1f8e63f58f8e86d 	 Submitt:A	 Task:bceb1ba2737146dda1f8e63f58f8e86d 	 Priority：6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：bd517b1758584e9b897ae65e56bb5d13 	 Submitt:B	 Task:bd517b1758584e9b897ae65e56bb5d13 	 Priority：2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：bb9459b17d0245168bb7ef1425c6b2d2 	 Submitt:C	 Task:bb9459b17d0245168bb7ef1425c6b2d2 	 Priority：2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：71e7ef14f33d4ee09b9657d2c6b0f0f9 	 Submitt:C	 Task:71e7ef14f33d4ee09b9657d2c6b0f0f9 	 Priority：3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：66881f4d507a4bf7be6bfdf0e3697b13 	 Submitt:C	 Task:66881f4d507a4bf7be6bfdf0e3697b13 	 Priority：9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：6747b670bb3049c6b77013cb08240752 	 Submitt:B	 Task:6747b670bb3049c6b77013cb08240752 	 Priority：8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：cadced7664694aafa176cbc9e131d8c8 	 Submitt:A	 Task:cadced7664694aafa176cbc9e131d8c8 	 Priority：10
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：8460264fe8dc4e4bbd124752e10a739d 	 Submitt:A	 Task:8460264fe8dc4e4bbd124752e10a739d 	 Priority：9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：bb76b85dc2b644af80eea172a768aa5e 	 Submitt:A	 Task:bb76b85dc2b644af80eea172a768aa5e 	 Priority：6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：a4e5356d57ae48408b433230bffd95d5 	 Submitt:C	 Task:a4e5356d57ae48408b433230bffd95d5 	 Priority：2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：d70b46f172e740f889579db93d6ce8f8 	 Submitt:A	 Task:d70b46f172e740f889579db93d6ce8f8 	 Priority：1
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：8147a4f4f18a43609ea8aa84993704e3 	 Submitt:A	 Task:8147a4f4f18a43609ea8aa84993704e3 	 Priority：3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：0c2f678bd08d402bbab8bc2225f5c402 	 Submitt:C	 Task:0c2f678bd08d402bbab8bc2225f5c402 	 Priority：1
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：b544d70a3fff4997b8df0e2b10001a27 	 Submitt:A	 Task:b544d70a3fff4997b8df0e2b10001a27 	 Priority：1
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：2240d31a8e584ebe948f6c3430800e47 	 Submitt:C	 Task:2240d31a8e584ebe948f6c3430800e47 	 Priority：2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：de01982d366d4a46a4024816516102b3 	 Submitt:C	 Task:de01982d366d4a46a4024816516102b3 	 Priority：8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：74ab346ba7f944458b39e1aa96b2b733 	 Submitt:B	 Task:74ab346ba7f944458b39e1aa96b2b733 	 Priority：3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：57e885d7efd447a88a354f415c940b4d 	 Submitt:C	 Task:57e885d7efd447a88a354f415c940b4d 	 Priority：4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：4fc1dec052ac466d9c97a82fd01fbaf9 	 Submitt:A	 Task:4fc1dec052ac466d9c97a82fd01fbaf9 	 Priority：7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：529ab280dbc24aecacc2e59ee5662e36 	 Submitt:A	 Task:529ab280dbc24aecacc2e59ee5662e36 	 Priority：3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：72924dfbc3094c77a51c656f4c57000d 	 Submitt:C	 Task:72924dfbc3094c77a51c656f4c57000d 	 Priority：7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：bf7851ef7dc64260967f89fd3c81bbac 	 Submitt:B	 Task:bf7851ef7dc64260967f89fd3c81bbac 	 Priority：6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：ab351faec7e943498657a6f3745f0478 	 Submitt:A	 Task:ab351faec7e943498657a6f3745f0478 	 Priority：8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：cd5ca9faf0004a669b52746a5ace4903 	 Submitt:C	 Task:cd5ca9faf0004a669b52746a5ace4903 	 Priority：7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：e4ccf6977fd64b6f805be8115f534608 	 Submitt:B	 Task:e4ccf6977fd64b6f805be8115f534608 	 Priority：1
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：5be37ab2bcb74db98480512d1b213746 	 Submitt:A	 Task:5be37ab2bcb74db98480512d1b213746 	 Priority：3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：0f9b142b420e4b9988edad541e19074b 	 Submitt:C	 Task:0f9b142b420e4b9988edad541e19074b 	 Priority：10
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：1fc9586346f84362a8ed4f6a12699b4c 	 Submitt:C	 Task:1fc9586346f84362a8ed4f6a12699b4c 	 Priority：5
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：2e4ca97f6e884048bd7f1751a8ddc140 	 Submitt:B	 Task:2e4ca97f6e884048bd7f1751a8ddc140 	 Priority：9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：0bdad404638c43e5aef2003b388e5ef1 	 Submitt:C	 Task:0bdad404638c43e5aef2003b388e5ef1 	 Priority：8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：60cae5c017c046988f5ec334858a99db 	 Submitt:B	 Task:60cae5c017c046988f5ec334858a99db 	 Priority：2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：76d1c5c218f84251bb9163e721af9629 	 Submitt:C	 Task:76d1c5c218f84251bb9163e721af9629 	 Priority：1
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：a0ecf85b92b540e3826b3c8de2a99be5 	 Submitt:A	 Task:a0ecf85b92b540e3826b3c8de2a99be5 	 Priority：8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：11b90bbd2f494b35863fa30903c8cd3f 	 Submitt:A	 Task:11b90bbd2f494b35863fa30903c8cd3f 	 Priority：8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：74c1da5e837549e8b9d45aa878c60925 	 Submitt:B	 Task:74c1da5e837549e8b9d45aa878c60925 	 Priority：8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：1c6985aff92c4413a2dcd975790d4256 	 Submitt:B	 Task:1c6985aff92c4413a2dcd975790d4256 	 Priority：1
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：d0fedefd5cd84c41be8692d0f2229e70 	 Submitt:B	 Task:d0fedefd5cd84c41be8692d0f2229e70 	 Priority：3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：fc820cc0e9064ad38a0bd73727aaed74 	 Submitt:A	 Task:fc820cc0e9064ad38a0bd73727aaed74 	 Priority：7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：724741ccf5ff4ea7b5f30e6238042c1d 	 Submitt:C	 Task:724741ccf5ff4ea7b5f30e6238042c1d 	 Priority：4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：f0a0031d292d4fceb39e600652196550 	 Submitt:A	 Task:f0a0031d292d4fceb39e600652196550 	 Priority：9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：85616be57890409bb34fd3b6ad437645 	 Submitt:A	 Task:85616be57890409bb34fd3b6ad437645 	 Priority：9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：953de311af0d4193a7b8616666abac4a 	 Submitt:A	 Task:953de311af0d4193a7b8616666abac4a 	 Priority：9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：c0263f893d984bf899c6c4a106116c94 	 Submitt:B	 Task:c0263f893d984bf899c6c4a106116c94 	 Priority：9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：7b8c86ca97084f8d883acc912bc706b7 	 Submitt:A	 Task:7b8c86ca97084f8d883acc912bc706b7 	 Priority：10
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：832bfb29e9a74fef9c6da4864d7ae7dd 	 Submitt:B	 Task:832bfb29e9a74fef9c6da4864d7ae7dd 	 Priority：2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：abeb0385272d42e3bbacdaee8e407f55 	 Submitt:A	 Task:abeb0385272d42e3bbacdaee8e407f55 	 Priority：1
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：a79c854e609c477092bdaed8ea9c42d4 	 Submitt:A	 Task:a79c854e609c477092bdaed8ea9c42d4 	 Priority：10
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：fdf1c8aa3a9340bab6bb11b4fde837a0 	 Submitt:B	 Task:fdf1c8aa3a9340bab6bb11b4fde837a0 	 Priority：6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：6e09b2e9191a4a9fa61ef19a93610347 	 Submitt:A	 Task:6e09b2e9191a4a9fa61ef19a93610347 	 Priority：9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：2399edafd7aa4d14ad17317384e7a48d 	 Submitt:B	 Task:2399edafd7aa4d14ad17317384e7a48d 	 Priority：4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：30232e4628614584b4614ee13bb9f60b 	 Submitt:B	 Task:30232e4628614584b4614ee13bb9f60b 	 Priority：6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：8526cf8c0e204f639ee47c74f346899a 	 Submitt:A	 Task:8526cf8c0e204f639ee47c74f346899a 	 Priority：2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：c382d6416c484163bffd65484b2298a4 	 Submitt:A	 Task:c382d6416c484163bffd65484b2298a4 	 Priority：4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：4b69810a24494b1385249d9c620dd94e 	 Submitt:A	 Task:4b69810a24494b1385249d9c620dd94e 	 Priority：2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：f7dbd430379b4a94943b0db091b094c0 	 Submitt:A	 Task:f7dbd430379b4a94943b0db091b094c0 	 Priority：7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：bdbab4b3bc54494ebef1d65b8d40c5af 	 Submitt:C	 Task:bdbab4b3bc54494ebef1d65b8d40c5af 	 Priority：3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：282381c324e044babe7d63d27af16b19 	 Submitt:C	 Task:282381c324e044babe7d63d27af16b19 	 Priority：4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：c702175c68bd48399c8451c927315be8 	 Submitt:A	 Task:c702175c68bd48399c8451c927315be8 	 Priority：2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：f79428dddff047ccbfc8e58a3f1fae04 	 Submitt:B	 Task:f79428dddff047ccbfc8e58a3f1fae04 	 Priority：7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：1dc2e55c48b543da8db9f9ab0bb98599 	 Submitt:C	 Task:1dc2e55c48b543da8db9f9ab0bb98599 	 Priority：2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：7fb1add6dbd843afbbbbd3f7aaac8552 	 Submitt:A	 Task:7fb1add6dbd843afbbbbd3f7aaac8552 	 Priority：3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：643fdb9b46984991a2ffaf6699f2e9f2 	 Submitt:C	 Task:643fdb9b46984991a2ffaf6699f2e9f2 	 Priority：10
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：66ce2a303c3847998d837faf68ac2705 	 Submitt:B	 Task:66ce2a303c3847998d837faf68ac2705 	 Priority：10
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：56c630d6e6b642dbb2454bf198467885 	 Submitt:B	 Task:56c630d6e6b642dbb2454bf198467885 	 Priority：8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：270efbf249574f1dbaf0de49fb64e6e2 	 Submitt:B	 Task:270efbf249574f1dbaf0de49fb64e6e2 	 Priority：2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：877db5dad2fb44b9aaa057b5d15486cf 	 Submitt:C	 Task:877db5dad2fb44b9aaa057b5d15486cf 	 Priority：4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：d325f2cfa413469b850104af323a28cf 	 Submitt:A	 Task:d325f2cfa413469b850104af323a28cf 	 Priority：8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：563f7996c7d74f0b8b4d3754e8d9231f 	 Submitt:B	 Task:563f7996c7d74f0b8b4d3754e8d9231f 	 Priority：1
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：d5362f13abee467d8c1feabe47c9d45c 	 Submitt:A	 Task:d5362f13abee467d8c1feabe47c9d45c 	 Priority：6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：2ec177054fde4ac4bde5689d01faf71b 	 Submitt:C	 Task:2ec177054fde4ac4bde5689d01faf71b 	 Priority：6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：7ef719f9e7a842cf90d114fed48422df 	 Submitt:C	 Task:7ef719f9e7a842cf90d114fed48422df 	 Priority：2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：ddb7c153899f4de8bb9f12383885c205 	 Submitt:B	 Task:ddb7c153899f4de8bb9f12383885c205 	 Priority：4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：0ac6d5b89745496f93031cac53ed160f 	 Submitt:A	 Task:0ac6d5b89745496f93031cac53ed160f 	 Priority：4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：a6738949a3e64316ba120f0589c5b96d 	 Submitt:C	 Task:a6738949a3e64316ba120f0589c5b96d 	 Priority：1
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：a1bcc6c4d2b244c6bde58db9336f5f3b 	 Submitt:B	 Task:a1bcc6c4d2b244c6bde58db9336f5f3b 	 Priority：6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：6ccc564cd7db42f1aac8bda7be6a0f71 	 Submitt:A	 Task:6ccc564cd7db42f1aac8bda7be6a0f71 	 Priority：2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：cabbc1a5129345938effa96da975ba52 	 Submitt:B	 Task:cabbc1a5129345938effa96da975ba52 	 Priority：2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：ed27acddec394ea4b4c763da4ab4cf05 	 Submitt:C	 Task:ed27acddec394ea4b4c763da4ab4cf05 	 Priority：9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：5060791ae6fd4fd9ac7241fe53354ae0 	 Submitt:C	 Task:5060791ae6fd4fd9ac7241fe53354ae0 	 Priority：9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：0e3dae2fe4704c2e838ee78d8790385c 	 Submitt:B	 Task:0e3dae2fe4704c2e838ee78d8790385c 	 Priority：7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：5e74078017a14fbbbf9e8194b44a2841 	 Submitt:C	 Task:5e74078017a14fbbbf9e8194b44a2841 	 Priority：3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：1079720d4390427fb28dcb0e596c8510 	 Submitt:A	 Task:1079720d4390427fb28dcb0e596c8510 	 Priority：7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：99777c706fd0406e949393c111c7801a 	 Submitt:C	 Task:99777c706fd0406e949393c111c7801a 	 Priority：6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：1896315d4dbf4f3c960466fed37fb9ef 	 Submitt:A	 Task:1896315d4dbf4f3c960466fed37fb9ef 	 Priority：6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：0ad6e60195e24dc3bce50ecebce027b0 	 Submitt:A	 Task:0ad6e60195e24dc3bce50ecebce027b0 	 Priority：7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：add41dc514224af683bd512cb0d116c1 	 Submitt:C	 Task:add41dc514224af683bd512cb0d116c1 	 Priority：2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：2f380e6ae702436baf2a4058c8d0fb9d 	 Submitt:A	 Task:2f380e6ae702436baf2a4058c8d0fb9d 	 Priority：5
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：07d09b4808ef40fc8c3cb3feb135ab27 	 Submitt:B	 Task:07d09b4808ef40fc8c3cb3feb135ab27 	 Priority：3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：c2f1d3f70eab4f9abda9efb853c373ff 	 Submitt:A	 Task:c2f1d3f70eab4f9abda9efb853c373ff 	 Priority：5
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：979d21995a6143e5b7239088655eac43 	 Submitt:A	 Task:979d21995a6143e5b7239088655eac43 	 Priority：8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：9f3ae32c06144d1b9fece615f16db80e 	 Submitt:B	 Task:9f3ae32c06144d1b9fece615f16db80e 	 Priority：10
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：1b3e021f8da14bb0a81ffc23ae0679a2 	 Submitt:C	 Task:1b3e021f8da14bb0a81ffc23ae0679a2 	 Priority：7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：d06c0ef88c9344daab01cfd6e0ca0b48 	 Submitt:B	 Task:d06c0ef88c9344daab01cfd6e0ca0b48 	 Priority：5
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:414be321bd674681870a51390de61da4 	 Priority:2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:4d6f797a841746d4b8327d8bdd16f53a 	 Priority:2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:232ab0bc5bc645d688788b66d607ed05 	 Priority:1
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：5f7719404a734c28b264376a5060396a 	 Submitt:C	 Task:5f7719404a734c28b264376a5060396a 	 Priority：6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:dc1668f88bb441a6a4b95f83fca4304e 	 Priority:3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：6e3e2017416e462c8e4e26e3d190e094 	 Submitt:A	 Task:6e3e2017416e462c8e4e26e3d190e094 	 Priority：7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：c8269602585749ef8dd55f7a64d0a23d 	 Submitt:A	 Task:c8269602585749ef8dd55f7a64d0a23d 	 Priority：7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：c10d9209fe9d4bbf83452c5ccd19e191 	 Submitt:A	 Task:c10d9209fe9d4bbf83452c5ccd19e191 	 Priority：5
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$Submit run
+信息: 提交线程：a171ea871b94463f8d4363ff37c607de 	 Submitt:B	 Task:a171ea871b94463f8d4363ff37c607de 	 Priority：7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:fc6bd1da46054806b7fc199c2ce698af 	 Priority:4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:598ab0394e3b4183a4661d5b29116a37 	 Priority:2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:7b5dc7d56aa64b22bdd2ecb43d29705c 	 Priority:2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-4 	 Handler_C, Task:1d828c20c0dd4196a6147457406cfa29 	 Priority:10
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:d26e22a496ec4e3a8472fa32bd9201f5 	 Priority:6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:3991823a760744cc89caf169417c36d4 	 Priority:5
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:af9178c6246c4ffaa2ca5645ed6f34b6 	 Priority:9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:4e2e00b0887b4374be2c302b387f5013 	 Priority:5
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:3148e9e5282148aaaf1f2374c229b0b5 	 Priority:5
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:620d518c27934853aa362f0ebc3cb6ad 	 Priority:4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:75aaea8f534e4f86bd275b66b17098a6 	 Priority:7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:ac722085452348a794a8f96ddf811b8a 	 Priority:3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:607b3f98c51b4531b13b857a7ed18e26 	 Priority:7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-4 	 Handler_C, Task:e5f1f6c08ebc4aa5a55ae2e8e2f8a00b 	 Priority:6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:a313910eed214e7f85e2829d088dd5cc 	 Priority:2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:647b7623e11e4177829fd07d2013a971 	 Priority:4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:41b6c540195d442e87cc42c179ea2304 	 Priority:4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:9056765540b84c9182761abda4d90b77 	 Priority:4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:8bc4bb6b759742bba351620efc5f12a5 	 Priority:7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-4 	 Handler_C, Task:5af2d8a729f045c18a43c0de3b9814cb 	 Priority:3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:8b648d90090b47d6bcd60b455ec8a25d 	 Priority:3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:3ef59701df334b2a9080276f5a915fb6 	 Priority:6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:7152951b0ea34b5094a4e0dd5cafc0db 	 Priority:3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:4d1198e58a154715bfa1dfb33bc334f9 	 Priority:4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:dd5c87a1c00e493099543056bd5863fa 	 Priority:9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:38e59f80d3a545a9ae263583fa06c090 	 Priority:1
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:09d132469e4c4df0831104ad6c137e53 	 Priority:8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:2d36caebcf8648a88ab8932228ed757f 	 Priority:8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:d5f45ceee9ab49e99151d5717adc24e5 	 Priority:4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-4 	 Handler_C, Task:7cc0dba414554f5a82a1595f89d4d08e 	 Priority:8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:64dc2f2a1cd6407cb2ac8779436e0dbe 	 Priority:8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-4 	 Handler_C, Task:70acec6ca3ea49ec9d4ebc0dda1ca18b 	 Priority:4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:54a377310e35490e820b168054d4efda 	 Priority:7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:eff169c82c094024ae7cdb1507f5d47f 	 Priority:5
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-4 	 Handler_C, Task:a349392887a0420da2abd71baeab0135 	 Priority:6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:b6c8b8fa3166403fb6cab12682dfe516 	 Priority:8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:36f91aff7a6d42ef8c669d605290cafa 	 Priority:8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:54834c81a8a04692a14f9a4fb5b4bbeb 	 Priority:7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:97eb2c6dff3a47f294bd69c1276ecb03 	 Priority:3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:59faa65a0443436c94ff08b89c7155f4 	 Priority:2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:75bba353dbd64481ab890ece60d13ab0 	 Priority:5
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:2f5bdaa750c24b3bb143cdec8b820cd1 	 Priority:10
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:2839cbe31b2d4b9d889ed0927be50568 	 Priority:5
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:b283225b95fe4494a5e7dc23ff12e757 	 Priority:9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:ad255d75240c47d3a4d75740c45dd4a2 	 Priority:1
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:4a377173d2bb4a50afc2c194eccee39b 	 Priority:10
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:edc44884eca04e43b3f5fd1eee375da9 	 Priority:7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-4 	 Handler_C, Task:2d5c692d23104ad381c81a42c95fc7b3 	 Priority:6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:5e644118c7be4577a44db8531c3cf188 	 Priority:9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:9cd097950e5c4996bc0143fb45f5c08e 	 Priority:6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:50d4831d9d39499399d94da3f9c4d8bc 	 Priority:2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:0b77121f5e19474aa0afa48bb964b502 	 Priority:8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:626972c3725f48e98df031efae01ccfb 	 Priority:10
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:0bed3ab6974542d6902ce23269eb1724 	 Priority:10
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:111dc83b8b1f4d1c94c4ce438bbef5d9 	 Priority:4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:fe57fbb24eeb462aad23ead792c64004 	 Priority:9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:204cebfb74d24013ae8df3f10aae972c 	 Priority:3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:b68e06f0874b4b9c935e90f2216112b8 	 Priority:7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:74ab346ba7f944458b39e1aa96b2b733 	 Priority:3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:0c2f678bd08d402bbab8bc2225f5c402 	 Priority:1
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:ddaf1a830c3c4a72b5ef9da0a31683a4 	 Priority:10
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:bd517b1758584e9b897ae65e56bb5d13 	 Priority:2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:5f30219675c445b994a33b1d2e23c2fd 	 Priority:7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:f7d5401be558401d9143ca831b5829a9 	 Priority:6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:08dc8159ff9a4142a45592a02fe1efbc 	 Priority:2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-4 	 Handler_C, Task:1ada8cb55b404bc28cc9fac040bc16d5 	 Priority:6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:ee961463d30140688087eafe07730af5 	 Priority:2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:60cae5c017c046988f5ec334858a99db 	 Priority:2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:a4e5356d57ae48408b433230bffd95d5 	 Priority:2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:2240d31a8e584ebe948f6c3430800e47 	 Priority:2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:e4ccf6977fd64b6f805be8115f534608 	 Priority:1
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:6747b670bb3049c6b77013cb08240752 	 Priority:8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:2e4ca97f6e884048bd7f1751a8ddc140 	 Priority:9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:bb9459b17d0245168bb7ef1425c6b2d2 	 Priority:2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:1c6985aff92c4413a2dcd975790d4256 	 Priority:1
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:66881f4d507a4bf7be6bfdf0e3697b13 	 Priority:9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:de01982d366d4a46a4024816516102b3 	 Priority:8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:9e9578f0a3474c9d9f09b4271ac92b0b 	 Priority:4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:bf7851ef7dc64260967f89fd3c81bbac 	 Priority:6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:1abb8e96940f4b64821079420f4bc2cd 	 Priority:3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:2399edafd7aa4d14ad17317384e7a48d 	 Priority:4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-4 	 Handler_C, Task:71e7ef14f33d4ee09b9657d2c6b0f0f9 	 Priority:3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:16cf787b11df49e28a93686f41e679fe 	 Priority:2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:fdf1c8aa3a9340bab6bb11b4fde837a0 	 Priority:6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:e53cd074ff7c48e6821cb3eee2afdbb2 	 Priority:3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:1fc9586346f84362a8ed4f6a12699b4c 	 Priority:5
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:57e885d7efd447a88a354f415c940b4d 	 Priority:4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:cd5ca9faf0004a669b52746a5ace4903 	 Priority:7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:76d1c5c218f84251bb9163e721af9629 	 Priority:1
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:d0fedefd5cd84c41be8692d0f2229e70 	 Priority:3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:832bfb29e9a74fef9c6da4864d7ae7dd 	 Priority:2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:724741ccf5ff4ea7b5f30e6238042c1d 	 Priority:4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:563f7996c7d74f0b8b4d3754e8d9231f 	 Priority:1
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:0f9b142b420e4b9988edad541e19074b 	 Priority:10
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:270efbf249574f1dbaf0de49fb64e6e2 	 Priority:2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:0bdad404638c43e5aef2003b388e5ef1 	 Priority:8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:a2962627c73d48289c1602d56c6b3bd9 	 Priority:6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:bdbab4b3bc54494ebef1d65b8d40c5af 	 Priority:3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:74c1da5e837549e8b9d45aa878c60925 	 Priority:8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:877db5dad2fb44b9aaa057b5d15486cf 	 Priority:4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:e398266085d94fd7852e80bd6569038d 	 Priority:3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-4 	 Handler_C, Task:72924dfbc3094c77a51c656f4c57000d 	 Priority:7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:282381c324e044babe7d63d27af16b19 	 Priority:4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-4 	 Handler_C, Task:2ec177054fde4ac4bde5689d01faf71b 	 Priority:6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:30232e4628614584b4614ee13bb9f60b 	 Priority:6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:c9ed52f2ad96439cb935cf0b050374ce 	 Priority:7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:ddb7c153899f4de8bb9f12383885c205 	 Priority:4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:7ef719f9e7a842cf90d114fed48422df 	 Priority:2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:56c630d6e6b642dbb2454bf198467885 	 Priority:8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:1dc2e55c48b543da8db9f9ab0bb98599 	 Priority:2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:c0263f893d984bf899c6c4a106116c94 	 Priority:9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:66ce2a303c3847998d837faf68ac2705 	 Priority:10
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:add41dc514224af683bd512cb0d116c1 	 Priority:2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:07d09b4808ef40fc8c3cb3feb135ab27 	 Priority:3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:99777c706fd0406e949393c111c7801a 	 Priority:6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:522aded7ed05466d8baeb24c090f9889 	 Priority:1
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:f79428dddff047ccbfc8e58a3f1fae04 	 Priority:7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-4 	 Handler_C, Task:a6738949a3e64316ba120f0589c5b96d 	 Priority:1
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:643fdb9b46984991a2ffaf6699f2e9f2 	 Priority:10
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:f1afe4636002408c8f2655037988a8a0 	 Priority:9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-4 	 Handler_C, Task:ed27acddec394ea4b4c763da4ab4cf05 	 Priority:9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:a1bcc6c4d2b244c6bde58db9336f5f3b 	 Priority:6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:49b475188afd4e19b8a60a1901a2e458 	 Priority:2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:1b3e021f8da14bb0a81ffc23ae0679a2 	 Priority:7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:d06c0ef88c9344daab01cfd6e0ca0b48 	 Priority:5
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:cabbc1a5129345938effa96da975ba52 	 Priority:2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:5e74078017a14fbbbf9e8194b44a2841 	 Priority:3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:9f3ae32c06144d1b9fece615f16db80e 	 Priority:10
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:c5860aba9839497fb3ffaaf9576901c8 	 Priority:5
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:0e3dae2fe4704c2e838ee78d8790385c 	 Priority:7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-4 	 Handler_C, Task:5f7719404a734c28b264376a5060396a 	 Priority:6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:1e1f02dbe0104d619a562133102be910 	 Priority:4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:5060791ae6fd4fd9ac7241fe53354ae0 	 Priority:9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:55a2659ae2214ecfa5170ea04b7017f7 	 Priority:6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:720ea5e4d8fe401e907a90dd7f7bebf6 	 Priority:5
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:a171ea871b94463f8d4363ff37c607de 	 Priority:7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:d6fdd3ea4e0f4c5eae91a4ae4d318c49 	 Priority:7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:cacba1ef45d749c1896c696cfddbf122 	 Priority:6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:6c32b1e641f64797b9c4cc97305c7340 	 Priority:8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:fe23ad8e69224e84a4720c65a526f894 	 Priority:9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:09d3af7987da4eb585a1b03d6bad758a 	 Priority:10
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:371fbf3119ff4138b02360abe40296e1 	 Priority:2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:12c31cd63c7645fe8b0d5932934a1b6c 	 Priority:4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:9cfd61cfc6424f3d9d9766449bf13f83 	 Priority:6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:4e1da6f09ded454382f870f2135a3adb 	 Priority:7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:e6e56fe940794c5187536f3e186768bc 	 Priority:8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:185b8d1155b4453d89c21b7a1313793c 	 Priority:8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:d70b46f172e740f889579db93d6ce8f8 	 Priority:1
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:b544d70a3fff4997b8df0e2b10001a27 	 Priority:1
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:8147a4f4f18a43609ea8aa84993704e3 	 Priority:3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:bceb1ba2737146dda1f8e63f58f8e86d 	 Priority:6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:bb76b85dc2b644af80eea172a768aa5e 	 Priority:6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:8460264fe8dc4e4bbd124752e10a739d 	 Priority:9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:cadced7664694aafa176cbc9e131d8c8 	 Priority:10
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:529ab280dbc24aecacc2e59ee5662e36 	 Priority:3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:5be37ab2bcb74db98480512d1b213746 	 Priority:3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:4fc1dec052ac466d9c97a82fd01fbaf9 	 Priority:7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:ab351faec7e943498657a6f3745f0478 	 Priority:8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:abeb0385272d42e3bbacdaee8e407f55 	 Priority:1
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:fc820cc0e9064ad38a0bd73727aaed74 	 Priority:7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:11b90bbd2f494b35863fa30903c8cd3f 	 Priority:8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:a0ecf85b92b540e3826b3c8de2a99be5 	 Priority:8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:953de311af0d4193a7b8616666abac4a 	 Priority:9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:85616be57890409bb34fd3b6ad437645 	 Priority:9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:6e09b2e9191a4a9fa61ef19a93610347 	 Priority:9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:f0a0031d292d4fceb39e600652196550 	 Priority:9
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:a79c854e609c477092bdaed8ea9c42d4 	 Priority:10
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:7b8c86ca97084f8d883acc912bc706b7 	 Priority:10
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:8526cf8c0e204f639ee47c74f346899a 	 Priority:2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:4b69810a24494b1385249d9c620dd94e 	 Priority:2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:c702175c68bd48399c8451c927315be8 	 Priority:2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:7fb1add6dbd843afbbbbd3f7aaac8552 	 Priority:3
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:c382d6416c484163bffd65484b2298a4 	 Priority:4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:0ac6d5b89745496f93031cac53ed160f 	 Priority:4
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:d5362f13abee467d8c1feabe47c9d45c 	 Priority:6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:f7dbd430379b4a94943b0db091b094c0 	 Priority:7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:d325f2cfa413469b850104af323a28cf 	 Priority:8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:6ccc564cd7db42f1aac8bda7be6a0f71 	 Priority:2
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:c2f1d3f70eab4f9abda9efb853c373ff 	 Priority:5
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:2f380e6ae702436baf2a4058c8d0fb9d 	 Priority:5
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:1896315d4dbf4f3c960466fed37fb9ef 	 Priority:6
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:1079720d4390427fb28dcb0e596c8510 	 Priority:7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:0ad6e60195e24dc3bce50ecebce027b0 	 Priority:7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:979d21995a6143e5b7239088655eac43 	 Priority:8
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:c10d9209fe9d4bbf83452c5ccd19e191 	 Priority:5
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:6e3e2017416e462c8e4e26e3d190e094 	 Priority:7
+
+十一月 29, 2018 4:55:14 下午 ibm_final.Final_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:c8269602585749ef8dd55f7a64d0a23d 	 Priority:7
+

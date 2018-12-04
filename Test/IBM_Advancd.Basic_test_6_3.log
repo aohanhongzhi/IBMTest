@@ -1,0 +1,1202 @@
+十一月 29, 2018 1:54:58 下午 IBM_Advancd.Basic_test_6_3 main
+信息: Main Thread has started!so the process has worked!
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：b21d4c04a055440eb8b8ad1a3cb07117 	 Submitt:A	 Task:b21d4c04a055440eb8b8ad1a3cb07117 	 Priority：8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：ff95483695fd4eea83411585b8428832 	 Submitt:C	 Task:ff95483695fd4eea83411585b8428832 	 Priority：2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：a7c20fe013cd470f9eb1c3713edb0bc3 	 Submitt:A	 Task:a7c20fe013cd470f9eb1c3713edb0bc3 	 Priority：6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：75a1073f738d41a687aa46c7f1f5e26b 	 Submitt:B	 Task:75a1073f738d41a687aa46c7f1f5e26b 	 Priority：6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：80161fef25494f99aa566a384418dbd3 	 Submitt:B	 Task:80161fef25494f99aa566a384418dbd3 	 Priority：7
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：68489263af3f4ac5b8f03b0e71bb047d 	 Submitt:B	 Task:68489263af3f4ac5b8f03b0e71bb047d 	 Priority：6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：4410db3e468e4cedb3e0f12858606e2e 	 Submitt:B	 Task:4410db3e468e4cedb3e0f12858606e2e 	 Priority：3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：0b31bf0156554ae6bde34dcd197918a9 	 Submitt:B	 Task:0b31bf0156554ae6bde34dcd197918a9 	 Priority：4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：685caeed0bf04563bd8d234755a03e38 	 Submitt:B	 Task:685caeed0bf04563bd8d234755a03e38 	 Priority：9
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：955fe645baf4401abb04a95f73861233 	 Submitt:A	 Task:955fe645baf4401abb04a95f73861233 	 Priority：2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：b04f0a84ffa641149bd9038680e4a651 	 Submitt:B	 Task:b04f0a84ffa641149bd9038680e4a651 	 Priority：9
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：dafc03e7e8b34d0a81693f9e35c17677 	 Submitt:C	 Task:dafc03e7e8b34d0a81693f9e35c17677 	 Priority：1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：036457feed5b4cdaa1a278c78e715310 	 Submitt:B	 Task:036457feed5b4cdaa1a278c78e715310 	 Priority：4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：927a408ed1754ef8ad48ab9d5cdf4eda 	 Submitt:A	 Task:927a408ed1754ef8ad48ab9d5cdf4eda 	 Priority：1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：d2dd556139ac4ea5b152356fa2ce368e 	 Submitt:C	 Task:d2dd556139ac4ea5b152356fa2ce368e 	 Priority：3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：b6cb4b6e4f904b0aa5d1176d23fae213 	 Submitt:A	 Task:b6cb4b6e4f904b0aa5d1176d23fae213 	 Priority：7
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：eff8bcc4df644feb98237bbf2cc211fd 	 Submitt:A	 Task:eff8bcc4df644feb98237bbf2cc211fd 	 Priority：10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：95655a5a25ed485887b9cf25f071c383 	 Submitt:B	 Task:95655a5a25ed485887b9cf25f071c383 	 Priority：3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：42b9659f92b64fd8bd927eb42dc1a794 	 Submitt:B	 Task:42b9659f92b64fd8bd927eb42dc1a794 	 Priority：5
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：cc6c6e963a834374a9ef167553984bc4 	 Submitt:A	 Task:cc6c6e963a834374a9ef167553984bc4 	 Priority：9
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：139deb29219a4da0b36c5cb697f77798 	 Submitt:B	 Task:139deb29219a4da0b36c5cb697f77798 	 Priority：8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：4ec6a90e03514bfa9bd52e9ee27501f5 	 Submitt:A	 Task:4ec6a90e03514bfa9bd52e9ee27501f5 	 Priority：1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：1aea9810b60d429686b7e35a46135bdd 	 Submitt:C	 Task:1aea9810b60d429686b7e35a46135bdd 	 Priority：8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：7521ba17cac642c3ad47e36945930a60 	 Submitt:A	 Task:7521ba17cac642c3ad47e36945930a60 	 Priority：1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：9565c7e234014187872ed8b239bac33e 	 Submitt:C	 Task:9565c7e234014187872ed8b239bac33e 	 Priority：1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：ba20a7aa350e40cebf2bc3dee1ccd4f0 	 Submitt:A	 Task:ba20a7aa350e40cebf2bc3dee1ccd4f0 	 Priority：9
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：59fbcee0a9a644f689071a60d94e8d52 	 Submitt:A	 Task:59fbcee0a9a644f689071a60d94e8d52 	 Priority：7
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：9a951e9c005944d1b4e29127c274f7dc 	 Submitt:B	 Task:9a951e9c005944d1b4e29127c274f7dc 	 Priority：6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：839a9159e99840ef993b843e44191772 	 Submitt:A	 Task:839a9159e99840ef993b843e44191772 	 Priority：4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：70404bd22b8345619c1155f09ed753e9 	 Submitt:C	 Task:70404bd22b8345619c1155f09ed753e9 	 Priority：5
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：461c4cf3d3a04138bde8cdee3c0ffe13 	 Submitt:B	 Task:461c4cf3d3a04138bde8cdee3c0ffe13 	 Priority：2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：9f94c8a6fa7142af91d7818df03e4b60 	 Submitt:C	 Task:9f94c8a6fa7142af91d7818df03e4b60 	 Priority：4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：68baa7c3d5064203b91362184808d589 	 Submitt:A	 Task:68baa7c3d5064203b91362184808d589 	 Priority：7
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：e59053ae102c48baae7c0fd72c668d77 	 Submitt:B	 Task:e59053ae102c48baae7c0fd72c668d77 	 Priority：10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：6a9f16bc0ec947889842a7df9d88d3ce 	 Submitt:A	 Task:6a9f16bc0ec947889842a7df9d88d3ce 	 Priority：4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：a3b839f7884f42c1ac2fe29bc83f8af8 	 Submitt:B	 Task:a3b839f7884f42c1ac2fe29bc83f8af8 	 Priority：4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：3b8d1a58502d44b9bb0b1ff26383a483 	 Submitt:C	 Task:3b8d1a58502d44b9bb0b1ff26383a483 	 Priority：6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：40ec8b58e2154b828a8fdfe8be02d4ab 	 Submitt:C	 Task:40ec8b58e2154b828a8fdfe8be02d4ab 	 Priority：8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：4459711e03a4440b883eff8a14bb0900 	 Submitt:B	 Task:4459711e03a4440b883eff8a14bb0900 	 Priority：3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：222526e5fc2647b59c3ebdeed587aab3 	 Submitt:B	 Task:222526e5fc2647b59c3ebdeed587aab3 	 Priority：2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：ed117fd85edd44d2b6266232d38c03db 	 Submitt:A	 Task:ed117fd85edd44d2b6266232d38c03db 	 Priority：6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：bbe4ff2fcc30482c909ddee40fe6ead4 	 Submitt:C	 Task:bbe4ff2fcc30482c909ddee40fe6ead4 	 Priority：10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：c14825fa7f6145ef86ccc1f6605154e9 	 Submitt:B	 Task:c14825fa7f6145ef86ccc1f6605154e9 	 Priority：10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：ee77fd0b49f54e84bd84a1437570fb02 	 Submitt:C	 Task:ee77fd0b49f54e84bd84a1437570fb02 	 Priority：4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：95d25cc1d2b6449e8dc86fcc4eca6299 	 Submitt:C	 Task:95d25cc1d2b6449e8dc86fcc4eca6299 	 Priority：3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：0e30a859617446a1b30ae2e91994cd38 	 Submitt:B	 Task:0e30a859617446a1b30ae2e91994cd38 	 Priority：6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：6fc3727450944117b25b5a88df010da7 	 Submitt:C	 Task:6fc3727450944117b25b5a88df010da7 	 Priority：8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：c79308f78dc547b8b1a504833e4d59ff 	 Submitt:C	 Task:c79308f78dc547b8b1a504833e4d59ff 	 Priority：5
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：858818d590e24095af7190e9f89837a1 	 Submitt:C	 Task:858818d590e24095af7190e9f89837a1 	 Priority：8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：45fcb6986db444e3ab7d63a8ef2db30a 	 Submitt:C	 Task:45fcb6986db444e3ab7d63a8ef2db30a 	 Priority：10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：2f4d081499d84ea18ef766e8cddca5e7 	 Submitt:A	 Task:2f4d081499d84ea18ef766e8cddca5e7 	 Priority：1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：abfb568d4112416cb7d1e983c65b4431 	 Submitt:C	 Task:abfb568d4112416cb7d1e983c65b4431 	 Priority：5
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：9410f1cb408941d49b1239198ef83037 	 Submitt:A	 Task:9410f1cb408941d49b1239198ef83037 	 Priority：9
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：763a09f41fcb4b1f86db74037985f260 	 Submitt:C	 Task:763a09f41fcb4b1f86db74037985f260 	 Priority：8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：c9ed0875580044fbb1e08e7db4c9d996 	 Submitt:C	 Task:c9ed0875580044fbb1e08e7db4c9d996 	 Priority：2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：4054f768d3284aa8a9491e38610b2765 	 Submitt:B	 Task:4054f768d3284aa8a9491e38610b2765 	 Priority：8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：e899755327fa46a3bfc91b52b09b0e1e 	 Submitt:C	 Task:e899755327fa46a3bfc91b52b09b0e1e 	 Priority：6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：6e45e7eccdd64049871f774fee2b6eea 	 Submitt:B	 Task:6e45e7eccdd64049871f774fee2b6eea 	 Priority：10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：ddefcff3031f452f9ccf73fa4c039ee3 	 Submitt:B	 Task:ddefcff3031f452f9ccf73fa4c039ee3 	 Priority：2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：32511945eae14c3db60d43496137356f 	 Submitt:B	 Task:32511945eae14c3db60d43496137356f 	 Priority：10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：0e725c417ace43c4bf2e385494409ee3 	 Submitt:C	 Task:0e725c417ace43c4bf2e385494409ee3 	 Priority：1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：ebea5de82155420db559fbc8753a6d55 	 Submitt:B	 Task:ebea5de82155420db559fbc8753a6d55 	 Priority：7
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：df3f137ac24043c49d5eabb92b9c97c8 	 Submitt:A	 Task:df3f137ac24043c49d5eabb92b9c97c8 	 Priority：1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：23b25a443d7c48899ff344678cff4da8 	 Submitt:C	 Task:23b25a443d7c48899ff344678cff4da8 	 Priority：3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：24ec3909e1bb404893c17810c2705a92 	 Submitt:C	 Task:24ec3909e1bb404893c17810c2705a92 	 Priority：1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：f3c81817b0534d948e0f80ac76cb5939 	 Submitt:C	 Task:f3c81817b0534d948e0f80ac76cb5939 	 Priority：3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：bbef3f248ae94aeba766e3a3383a35a4 	 Submitt:C	 Task:bbef3f248ae94aeba766e3a3383a35a4 	 Priority：1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：66fd5ac7f3fc4e28bf773699a56c29c2 	 Submitt:C	 Task:66fd5ac7f3fc4e28bf773699a56c29c2 	 Priority：7
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：3431dc904f344cb5b97b75d309304488 	 Submitt:A	 Task:3431dc904f344cb5b97b75d309304488 	 Priority：10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：272d2ea9bc334f63863afb256737a134 	 Submitt:B	 Task:272d2ea9bc334f63863afb256737a134 	 Priority：3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：51f4a08476c74fce8b42f5fadb96ec04 	 Submitt:A	 Task:51f4a08476c74fce8b42f5fadb96ec04 	 Priority：10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：173efab72ca34085877eb72dc860a4e5 	 Submitt:B	 Task:173efab72ca34085877eb72dc860a4e5 	 Priority：1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：1adb4e6a48c347a5bac54adf0c580d71 	 Submitt:A	 Task:1adb4e6a48c347a5bac54adf0c580d71 	 Priority：2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：621eaff2dbd744c783ea573bcb0a4816 	 Submitt:B	 Task:621eaff2dbd744c783ea573bcb0a4816 	 Priority：8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：0b0d217145d54ba5b50d1f611b26c1c4 	 Submitt:B	 Task:0b0d217145d54ba5b50d1f611b26c1c4 	 Priority：3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：7f792de4a4a74000a510b9092e4bb4d9 	 Submitt:C	 Task:7f792de4a4a74000a510b9092e4bb4d9 	 Priority：2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：e65816dce7b7440e92b2c7330dfe4174 	 Submitt:A	 Task:e65816dce7b7440e92b2c7330dfe4174 	 Priority：8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：b9a899cac0074b21b48234e09401c413 	 Submitt:C	 Task:b9a899cac0074b21b48234e09401c413 	 Priority：10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：9d97e1f0549b4b93b41a053ab66408e8 	 Submitt:C	 Task:9d97e1f0549b4b93b41a053ab66408e8 	 Priority：7
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：2d660af520c24357af37aa9ce709170d 	 Submitt:B	 Task:2d660af520c24357af37aa9ce709170d 	 Priority：1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：ce14fc2a7acd441292f5e4df41bbf4f7 	 Submitt:B	 Task:ce14fc2a7acd441292f5e4df41bbf4f7 	 Priority：3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：0d91f32422dd4164b39e1b0bc66dbd51 	 Submitt:C	 Task:0d91f32422dd4164b39e1b0bc66dbd51 	 Priority：8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：31212542c06c4b7d94e3624b7ef01435 	 Submitt:C	 Task:31212542c06c4b7d94e3624b7ef01435 	 Priority：8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:ff95483695fd4eea83411585b8428832 	 Priority:2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：e701d0b59111481dbf8800ed72d13f78 	 Submitt:B	 Task:e701d0b59111481dbf8800ed72d13f78 	 Priority：1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:dafc03e7e8b34d0a81693f9e35c17677 	 Priority:1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：f1429cd6cf694c949ed948e665a5977c 	 Submitt:C	 Task:f1429cd6cf694c949ed948e665a5977c 	 Priority：6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：61e1315fbb944a1196a72fd96e1eb61b 	 Submitt:C	 Task:61e1315fbb944a1196a72fd96e1eb61b 	 Priority：8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:2d660af520c24357af37aa9ce709170d 	 Priority:1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：aa5c5b9e8c624afd828e8720f203b63c 	 Submitt:B	 Task:aa5c5b9e8c624afd828e8720f203b63c 	 Priority：6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：5a6c025b16b34d4cb20816a26c6a2923 	 Submitt:A	 Task:5a6c025b16b34d4cb20816a26c6a2923 	 Priority：8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：1dd1cb98d37242909e9e068ba4e6a3e5 	 Submitt:B	 Task:1dd1cb98d37242909e9e068ba4e6a3e5 	 Priority：6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：7a65eeb1b917478f846c4877ee87d4d5 	 Submitt:C	 Task:7a65eeb1b917478f846c4877ee87d4d5 	 Priority：6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：238d1525fc2a473789fc74bcdda5165b 	 Submitt:A	 Task:238d1525fc2a473789fc74bcdda5165b 	 Priority：7
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：42be8b24723c4c32a552cd74acd03f6a 	 Submitt:C	 Task:42be8b24723c4c32a552cd74acd03f6a 	 Priority：5
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：99e269f8205e4eb4915ae685b03327a4 	 Submitt:A	 Task:99e269f8205e4eb4915ae685b03327a4 	 Priority：4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：f67b262a905240618789cb0d064cf9be 	 Submitt:B	 Task:f67b262a905240618789cb0d064cf9be 	 Priority：10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：7c58bace13644d4893ccb3a2162f4a1b 	 Submitt:C	 Task:7c58bace13644d4893ccb3a2162f4a1b 	 Priority：3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：31a89b3007b64b009b4163049d2153bf 	 Submitt:A	 Task:31a89b3007b64b009b4163049d2153bf 	 Priority：9
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：8cd704c1f36c41debc5aff0e27ad9858 	 Submitt:A	 Task:8cd704c1f36c41debc5aff0e27ad9858 	 Priority：4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：860c9e84bff8479f8e1b575708910dff 	 Submitt:B	 Task:860c9e84bff8479f8e1b575708910dff 	 Priority：2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：cbaea9295a094f11b465cec88dc26000 	 Submitt:A	 Task:cbaea9295a094f11b465cec88dc26000 	 Priority：5
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：52dde9b0b98e41748a1e39f71239fe3e 	 Submitt:C	 Task:52dde9b0b98e41748a1e39f71239fe3e 	 Priority：9
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：e5296c28730a4dda97b76a58a2bf6348 	 Submitt:C	 Task:e5296c28730a4dda97b76a58a2bf6348 	 Priority：8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：4cbd1de8b98144fcb9703a6ac8c98547 	 Submitt:A	 Task:4cbd1de8b98144fcb9703a6ac8c98547 	 Priority：7
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:0e725c417ace43c4bf2e385494409ee3 	 Priority:1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：7208e9a01df94ba1947fac5c01baa0e8 	 Submitt:A	 Task:7208e9a01df94ba1947fac5c01baa0e8 	 Priority：6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:e701d0b59111481dbf8800ed72d13f78 	 Priority:1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：8179b4e0437541ebb0c6caba71ef62af 	 Submitt:A	 Task:8179b4e0437541ebb0c6caba71ef62af 	 Priority：4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：0c06be93893b467590ea19369cd64268 	 Submitt:A	 Task:0c06be93893b467590ea19369cd64268 	 Priority：1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：6499a02047fc437fa87e9dd515734310 	 Submitt:A	 Task:6499a02047fc437fa87e9dd515734310 	 Priority：2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：78ccc659885241d58c840a5efbe6aba8 	 Submitt:A	 Task:78ccc659885241d58c840a5efbe6aba8 	 Priority：1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：ff2e05437a8b4419a6ca06e54f7e677b 	 Submitt:B	 Task:ff2e05437a8b4419a6ca06e54f7e677b 	 Priority：9
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：5aa8a99fc08e469aa96a5e9731b5da96 	 Submitt:C	 Task:5aa8a99fc08e469aa96a5e9731b5da96 	 Priority：3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：424a0c0efde14924b776740cadd69686 	 Submitt:B	 Task:424a0c0efde14924b776740cadd69686 	 Priority：2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：de9119e1b662417da881a5ad0df443b0 	 Submitt:A	 Task:de9119e1b662417da881a5ad0df443b0 	 Priority：2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：a8d95590cd24415c98a455602d1a55d8 	 Submitt:A	 Task:a8d95590cd24415c98a455602d1a55d8 	 Priority：5
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：f6e724191eb64b54910759b70e8efcd4 	 Submitt:A	 Task:f6e724191eb64b54910759b70e8efcd4 	 Priority：3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：7b710ace9965471885a5b93decfafc1a 	 Submitt:A	 Task:7b710ace9965471885a5b93decfafc1a 	 Priority：7
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：78d4bbb14fd04317911f4bf1e2e701d2 	 Submitt:A	 Task:78d4bbb14fd04317911f4bf1e2e701d2 	 Priority：1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：e99851b8d8ad48979c46b5e1a9052756 	 Submitt:B	 Task:e99851b8d8ad48979c46b5e1a9052756 	 Priority：3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：809db433b20c4d6eb2ac61731b754679 	 Submitt:C	 Task:809db433b20c4d6eb2ac61731b754679 	 Priority：1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：a8df3059f998442aa5d58a95e2a5f91a 	 Submitt:C	 Task:a8df3059f998442aa5d58a95e2a5f91a 	 Priority：6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：33e563bc0d1643e8a943fb1d325e1d88 	 Submitt:B	 Task:33e563bc0d1643e8a943fb1d325e1d88 	 Priority：6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：4e52338798cc4ac2943c6220b33cbc47 	 Submitt:C	 Task:4e52338798cc4ac2943c6220b33cbc47 	 Priority：3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：1a2c9f0ef16a4038ad1f528b6cb7c6b8 	 Submitt:A	 Task:1a2c9f0ef16a4038ad1f528b6cb7c6b8 	 Priority：5
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：eddc5a25c0224027b73ed1d50de6799f 	 Submitt:C	 Task:eddc5a25c0224027b73ed1d50de6799f 	 Priority：2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：5b811a8c836c4dcd95285af0487b1cd7 	 Submitt:B	 Task:5b811a8c836c4dcd95285af0487b1cd7 	 Priority：2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：dabd941cb8664222a5d55b0f809dbd13 	 Submitt:C	 Task:dabd941cb8664222a5d55b0f809dbd13 	 Priority：2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:173efab72ca34085877eb72dc860a4e5 	 Priority:1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:bbef3f248ae94aeba766e3a3383a35a4 	 Priority:1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:4ec6a90e03514bfa9bd52e9ee27501f5 	 Priority:1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:927a408ed1754ef8ad48ab9d5cdf4eda 	 Priority:1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：69e1b280525f496ebff73a0251ba9d91 	 Submitt:A	 Task:69e1b280525f496ebff73a0251ba9d91 	 Priority：1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：4030f09ec289451091e928cb464062e8 	 Submitt:B	 Task:4030f09ec289451091e928cb464062e8 	 Priority：5
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：9dd6b48e68dc4102a78f979023c0c4db 	 Submitt:C	 Task:9dd6b48e68dc4102a78f979023c0c4db 	 Priority：9
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：e357ba1ea4e244618b4ac90d0c65d4b6 	 Submitt:A	 Task:e357ba1ea4e244618b4ac90d0c65d4b6 	 Priority：1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：4c6082199c1448709d423d027714d989 	 Submitt:A	 Task:4c6082199c1448709d423d027714d989 	 Priority：4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：b35f11437c794864a5ff66796e32f1cd 	 Submitt:C	 Task:b35f11437c794864a5ff66796e32f1cd 	 Priority：4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：9b5a06e5b8ec4c81bd55c6c1781c1490 	 Submitt:A	 Task:9b5a06e5b8ec4c81bd55c6c1781c1490 	 Priority：1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：d1be7f2596f34f8987b300d3c2f540d2 	 Submitt:A	 Task:d1be7f2596f34f8987b300d3c2f540d2 	 Priority：6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：4508682fd4cd427db09a23f131c9b945 	 Submitt:B	 Task:4508682fd4cd427db09a23f131c9b945 	 Priority：1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：2441020d42904dd7ab0b29a955612f58 	 Submitt:A	 Task:2441020d42904dd7ab0b29a955612f58 	 Priority：5
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：3bd220b024664bdfaa823537a9052546 	 Submitt:A	 Task:3bd220b024664bdfaa823537a9052546 	 Priority：8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：6de4831a5c9e4c27a269ad23fb5527f1 	 Submitt:C	 Task:6de4831a5c9e4c27a269ad23fb5527f1 	 Priority：3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：e36a1b44f78043e6bc3624b7617b6339 	 Submitt:B	 Task:e36a1b44f78043e6bc3624b7617b6339 	 Priority：3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：9c9b4d90dada4d9b8d40eaad8272d20d 	 Submitt:A	 Task:9c9b4d90dada4d9b8d40eaad8272d20d 	 Priority：7
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：afb74e82166f4b7cac4631836df97257 	 Submitt:B	 Task:afb74e82166f4b7cac4631836df97257 	 Priority：8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：726109da5a46463bbf810396622cdd53 	 Submitt:A	 Task:726109da5a46463bbf810396622cdd53 	 Priority：6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：34ba8970af424c99b9a0a9307ab5a3d6 	 Submitt:B	 Task:34ba8970af424c99b9a0a9307ab5a3d6 	 Priority：8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：7c13a3d886c444b0897ac8c9570720da 	 Submitt:C	 Task:7c13a3d886c444b0897ac8c9570720da 	 Priority：10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：606006ff456e4d87945efca39788d7b4 	 Submitt:C	 Task:606006ff456e4d87945efca39788d7b4 	 Priority：9
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：b17ca9c34acb4c978134a216bc57d5f1 	 Submitt:A	 Task:b17ca9c34acb4c978134a216bc57d5f1 	 Priority：1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：b03ec1a910b649a18fd87c994a1e5b61 	 Submitt:C	 Task:b03ec1a910b649a18fd87c994a1e5b61 	 Priority：5
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：bfbdac4d47634596aaf3458ccfc64c07 	 Submitt:C	 Task:bfbdac4d47634596aaf3458ccfc64c07 	 Priority：5
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:2f4d081499d84ea18ef766e8cddca5e7 	 Priority:1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:7521ba17cac642c3ad47e36945930a60 	 Priority:1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:c9ed0875580044fbb1e08e7db4c9d996 	 Priority:2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:461c4cf3d3a04138bde8cdee3c0ffe13 	 Priority:2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:f3c81817b0534d948e0f80ac76cb5939 	 Priority:3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：7b2301a26bd142d59441ce48996c6735 	 Submitt:A	 Task:7b2301a26bd142d59441ce48996c6735 	 Priority：9
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:95d25cc1d2b6449e8dc86fcc4eca6299 	 Priority:3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：8e5680c3abc741e5a2ab9492b6fb6fc6 	 Submitt:B	 Task:8e5680c3abc741e5a2ab9492b6fb6fc6 	 Priority：10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：a2830a637675495197d6978b1b8a1a53 	 Submitt:A	 Task:a2830a637675495197d6978b1b8a1a53 	 Priority：6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：92d15715604d4fe6873e78c26989ea27 	 Submitt:C	 Task:92d15715604d4fe6873e78c26989ea27 	 Priority：6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：c089ddd5bd6f432eaeddc29845f4da5a 	 Submitt:C	 Task:c089ddd5bd6f432eaeddc29845f4da5a 	 Priority：4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：d38119deae314120b34160d764cc71aa 	 Submitt:C	 Task:d38119deae314120b34160d764cc71aa 	 Priority：7
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：f986edf4f5174c50b975b6d0676d4e92 	 Submitt:A	 Task:f986edf4f5174c50b975b6d0676d4e92 	 Priority：10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：369f309d173643e681250a6f4bd7dc50 	 Submitt:B	 Task:369f309d173643e681250a6f4bd7dc50 	 Priority：7
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：9a6639a65bb94ca5aa6cdf4194fec9d6 	 Submitt:C	 Task:9a6639a65bb94ca5aa6cdf4194fec9d6 	 Priority：8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：7b626285305a49f48b5802525d15f303 	 Submitt:C	 Task:7b626285305a49f48b5802525d15f303 	 Priority：3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：99541d06ca334d0699738b57b429e7b5 	 Submitt:A	 Task:99541d06ca334d0699738b57b429e7b5 	 Priority：4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：be37c7b757dd4a208af541e04f123d2f 	 Submitt:B	 Task:be37c7b757dd4a208af541e04f123d2f 	 Priority：7
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：e204178718e843f598efdbf92ea8966c 	 Submitt:C	 Task:e204178718e843f598efdbf92ea8966c 	 Priority：10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：6df5536dcf264700843362e061517686 	 Submitt:A	 Task:6df5536dcf264700843362e061517686 	 Priority：4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：025a34d2bf4b44959818d670f699b8a7 	 Submitt:B	 Task:025a34d2bf4b44959818d670f699b8a7 	 Priority：9
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：cfe3c3a148314521bca552d41666f062 	 Submitt:B	 Task:cfe3c3a148314521bca552d41666f062 	 Priority：5
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：28a012d0d3104c20971325af9c00af3e 	 Submitt:A	 Task:28a012d0d3104c20971325af9c00af3e 	 Priority：3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：bffde2d35a764ee48456e1a6f64bb98d 	 Submitt:C	 Task:bffde2d35a764ee48456e1a6f64bb98d 	 Priority：3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：da15518570ef4a6aa1928f3f8ab7e4f4 	 Submitt:C	 Task:da15518570ef4a6aa1928f3f8ab7e4f4 	 Priority：9
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：a62d4903ab584984a3172db4295fe962 	 Submitt:A	 Task:a62d4903ab584984a3172db4295fe962 	 Priority：10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：56fb0a15121b42f3a8c09e468607f06e 	 Submitt:C	 Task:56fb0a15121b42f3a8c09e468607f06e 	 Priority：7
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：b579dad2b2c64df0981e57b912525712 	 Submitt:A	 Task:b579dad2b2c64df0981e57b912525712 	 Priority：3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：c0083f880d8f4a0dafb8904d05e6d0de 	 Submitt:C	 Task:c0083f880d8f4a0dafb8904d05e6d0de 	 Priority：7
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：8b609ee946524dac8b4e8a90909ffd3a 	 Submitt:B	 Task:8b609ee946524dac8b4e8a90909ffd3a 	 Priority：3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：1840edb89c45412b8cd92b8c02288f95 	 Submitt:B	 Task:1840edb89c45412b8cd92b8c02288f95 	 Priority：4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：0f039a14420c47dabe723c6edfa37633 	 Submitt:B	 Task:0f039a14420c47dabe723c6edfa37633 	 Priority：2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：138bbd0dd45b4f33abc7bb7aef953a42 	 Submitt:B	 Task:138bbd0dd45b4f33abc7bb7aef953a42 	 Priority：10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：fc9b31d759ad4e3abaadd0dea8970a4b 	 Submitt:B	 Task:fc9b31d759ad4e3abaadd0dea8970a4b 	 Priority：9
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：49614f81ea4b47c799a0f15ce124c6ae 	 Submitt:B	 Task:49614f81ea4b47c799a0f15ce124c6ae 	 Priority：10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：c0d6869d95744a1280eeeaf3eaa6d79d 	 Submitt:A	 Task:c0d6869d95744a1280eeeaf3eaa6d79d 	 Priority：10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：680b3a34593d4a32a8f1af09b20b9559 	 Submitt:A	 Task:680b3a34593d4a32a8f1af09b20b9559 	 Priority：4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：e48c29e34bd3424b9080e184fc24e313 	 Submitt:A	 Task:e48c29e34bd3424b9080e184fc24e313 	 Priority：6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：b9f063eefe464f33b6db686ff16c26a5 	 Submitt:C	 Task:b9f063eefe464f33b6db686ff16c26a5 	 Priority：5
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：cf37818bb3484292aa68d21b1534b555 	 Submitt:C	 Task:cf37818bb3484292aa68d21b1534b555 	 Priority：2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：7ce300704bae40bf99a3b9e470cd4570 	 Submitt:A	 Task:7ce300704bae40bf99a3b9e470cd4570 	 Priority：6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：d95cb17a81b1442498b5b08874ed9295 	 Submitt:B	 Task:d95cb17a81b1442498b5b08874ed9295 	 Priority：6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：0cf823c0859c4013b38ef215563cb3ae 	 Submitt:C	 Task:0cf823c0859c4013b38ef215563cb3ae 	 Priority：4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：4537ce67474f46cc99ea8e317a57ae79 	 Submitt:C	 Task:4537ce67474f46cc99ea8e317a57ae79 	 Priority：8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：7922f13f1403416f85497654c3de39fc 	 Submitt:C	 Task:7922f13f1403416f85497654c3de39fc 	 Priority：3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:860c9e84bff8479f8e1b575708910dff 	 Priority:2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：d238f192dd864015b35bc18e8f4f1329 	 Submitt:A	 Task:d238f192dd864015b35bc18e8f4f1329 	 Priority：1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：cbf6b1f17069480587d357ff8e061d4a 	 Submitt:A	 Task:cbf6b1f17069480587d357ff8e061d4a 	 Priority：9
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：2d66859c09c846009c140a55c2f383d0 	 Submitt:A	 Task:2d66859c09c846009c140a55c2f383d0 	 Priority：10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:7f792de4a4a74000a510b9092e4bb4d9 	 Priority:2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:222526e5fc2647b59c3ebdeed587aab3 	 Priority:2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：494be5974f254bb599c07281c1468802 	 Submitt:C	 Task:494be5974f254bb599c07281c1468802 	 Priority：9
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:95655a5a25ed485887b9cf25f071c383 	 Priority:3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:24ec3909e1bb404893c17810c2705a92 	 Priority:1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：96c8f504386e4f2d8e2f528256b70cef 	 Submitt:B	 Task:96c8f504386e4f2d8e2f528256b70cef 	 Priority：2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:23b25a443d7c48899ff344678cff4da8 	 Priority:3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：6ae4172a0da04bf48c4fdfb950dba133 	 Submitt:B	 Task:6ae4172a0da04bf48c4fdfb950dba133 	 Priority：8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：3a4c24331f554115ae9a30aa56b71d2a 	 Submitt:B	 Task:3a4c24331f554115ae9a30aa56b71d2a 	 Priority：5
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：add08a48f2174bdda8d1f00b20e71c36 	 Submitt:A	 Task:add08a48f2174bdda8d1f00b20e71c36 	 Priority：2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：336077c642164890b62a8af26e7bb24f 	 Submitt:B	 Task:336077c642164890b62a8af26e7bb24f 	 Priority：2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-4 	 Handler_C, Task:9565c7e234014187872ed8b239bac33e 	 Priority:1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：a9048d3737d942398e1e5701cdda19f8 	 Submitt:C	 Task:a9048d3737d942398e1e5701cdda19f8 	 Priority：3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：f5b899c4223e4008ab1c282923a99f36 	 Submitt:B	 Task:f5b899c4223e4008ab1c282923a99f36 	 Priority：9
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：dd29e898073a4554858dd96992f06dfd 	 Submitt:C	 Task:dd29e898073a4554858dd96992f06dfd 	 Priority：2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：72e2d9636a8e41bb9808e7a52663599b 	 Submitt:C	 Task:72e2d9636a8e41bb9808e7a52663599b 	 Priority：8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：1697e2aa98114299b1a223574eafc186 	 Submitt:B	 Task:1697e2aa98114299b1a223574eafc186 	 Priority：4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$Submit run
+信息: 提交线程：a6d73d20f99a4e1e8984a5ab27fd5c40 	 Submitt:A	 Task:a6d73d20f99a4e1e8984a5ab27fd5c40 	 Priority：2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-4 	 Handler_C, Task:9f94c8a6fa7142af91d7818df03e4b60 	 Priority:4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:ee77fd0b49f54e84bd84a1437570fb02 	 Priority:4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:0b0d217145d54ba5b50d1f611b26c1c4 	 Priority:3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:d2dd556139ac4ea5b152356fa2ce368e 	 Priority:3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:272d2ea9bc334f63863afb256737a134 	 Priority:3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:7c58bace13644d4893ccb3a2162f4a1b 	 Priority:3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:ddefcff3031f452f9ccf73fa4c039ee3 	 Priority:2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:1adb4e6a48c347a5bac54adf0c580d71 	 Priority:2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:4410db3e468e4cedb3e0f12858606e2e 	 Priority:3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:df3f137ac24043c49d5eabb92b9c97c8 	 Priority:1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:955fe645baf4401abb04a95f73861233 	 Priority:2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:70404bd22b8345619c1155f09ed753e9 	 Priority:5
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:ce14fc2a7acd441292f5e4df41bbf4f7 	 Priority:3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:abfb568d4112416cb7d1e983c65b4431 	 Priority:5
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:4459711e03a4440b883eff8a14bb0900 	 Priority:3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:c79308f78dc547b8b1a504833e4d59ff 	 Priority:5
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:036457feed5b4cdaa1a278c78e715310 	 Priority:4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-4 	 Handler_C, Task:42be8b24723c4c32a552cd74acd03f6a 	 Priority:5
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:7a65eeb1b917478f846c4877ee87d4d5 	 Priority:6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:f1429cd6cf694c949ed948e665a5977c 	 Priority:6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:0b31bf0156554ae6bde34dcd197918a9 	 Priority:4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:9d97e1f0549b4b93b41a053ab66408e8 	 Priority:7
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:3b8d1a58502d44b9bb0b1ff26383a483 	 Priority:6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:99e269f8205e4eb4915ae685b03327a4 	 Priority:4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:6a9f16bc0ec947889842a7df9d88d3ce 	 Priority:4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:a3b839f7884f42c1ac2fe29bc83f8af8 	 Priority:4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:839a9159e99840ef993b843e44191772 	 Priority:4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:0d91f32422dd4164b39e1b0bc66dbd51 	 Priority:8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:e5296c28730a4dda97b76a58a2bf6348 	 Priority:8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:75a1073f738d41a687aa46c7f1f5e26b 	 Priority:6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:66fd5ac7f3fc4e28bf773699a56c29c2 	 Priority:7
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-4 	 Handler_C, Task:e899755327fa46a3bfc91b52b09b0e1e 	 Priority:6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:6fc3727450944117b25b5a88df010da7 	 Priority:8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:31212542c06c4b7d94e3624b7ef01435 	 Priority:8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:42b9659f92b64fd8bd927eb42dc1a794 	 Priority:5
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-4 	 Handler_C, Task:858818d590e24095af7190e9f89837a1 	 Priority:8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:0e30a859617446a1b30ae2e91994cd38 	 Priority:6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:40ec8b58e2154b828a8fdfe8be02d4ab 	 Priority:8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:61e1315fbb944a1196a72fd96e1eb61b 	 Priority:8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:cbaea9295a094f11b465cec88dc26000 	 Priority:5
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:aa5c5b9e8c624afd828e8720f203b63c 	 Priority:6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:8cd704c1f36c41debc5aff0e27ad9858 	 Priority:4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:bbe4ff2fcc30482c909ddee40fe6ead4 	 Priority:10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:ed117fd85edd44d2b6266232d38c03db 	 Priority:6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:9a951e9c005944d1b4e29127c274f7dc 	 Priority:6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:52dde9b0b98e41748a1e39f71239fe3e 	 Priority:9
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:1dd1cb98d37242909e9e068ba4e6a3e5 	 Priority:6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-4 	 Handler_C, Task:1aea9810b60d429686b7e35a46135bdd 	 Priority:8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:68489263af3f4ac5b8f03b0e71bb047d 	 Priority:6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:763a09f41fcb4b1f86db74037985f260 	 Priority:8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:621eaff2dbd744c783ea573bcb0a4816 	 Priority:8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-4 	 Handler_C, Task:5aa8a99fc08e469aa96a5e9731b5da96 	 Priority:3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:80161fef25494f99aa566a384418dbd3 	 Priority:7
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-4 	 Handler_C, Task:eddc5a25c0224027b73ed1d50de6799f 	 Priority:2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:139deb29219a4da0b36c5cb697f77798 	 Priority:8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:45fcb6986db444e3ab7d63a8ef2db30a 	 Priority:10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:ebea5de82155420db559fbc8753a6d55 	 Priority:7
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:4cbd1de8b98144fcb9703a6ac8c98547 	 Priority:7
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:b04f0a84ffa641149bd9038680e4a651 	 Priority:9
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:b9a899cac0074b21b48234e09401c413 	 Priority:10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:a7c20fe013cd470f9eb1c3713edb0bc3 	 Priority:6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:c14825fa7f6145ef86ccc1f6605154e9 	 Priority:10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:59fbcee0a9a644f689071a60d94e8d52 	 Priority:7
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:4e52338798cc4ac2943c6220b33cbc47 	 Priority:3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:68baa7c3d5064203b91362184808d589 	 Priority:7
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:685caeed0bf04563bd8d234755a03e38 	 Priority:9
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-4 	 Handler_C, Task:dabd941cb8664222a5d55b0f809dbd13 	 Priority:2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:4054f768d3284aa8a9491e38610b2765 	 Priority:8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-4 	 Handler_C, Task:b35f11437c794864a5ff66796e32f1cd 	 Priority:4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:809db433b20c4d6eb2ac61731b754679 	 Priority:1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:e59053ae102c48baae7c0fd72c668d77 	 Priority:10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:f67b262a905240618789cb0d064cf9be 	 Priority:10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:6e45e7eccdd64049871f774fee2b6eea 	 Priority:10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:238d1525fc2a473789fc74bcdda5165b 	 Priority:7
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:6de4831a5c9e4c27a269ad23fb5527f1 	 Priority:3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:32511945eae14c3db60d43496137356f 	 Priority:10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:b6cb4b6e4f904b0aa5d1176d23fae213 	 Priority:7
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:a8df3059f998442aa5d58a95e2a5f91a 	 Priority:6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:5b811a8c836c4dcd95285af0487b1cd7 	 Priority:2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:606006ff456e4d87945efca39788d7b4 	 Priority:9
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:5a6c025b16b34d4cb20816a26c6a2923 	 Priority:8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:ff2e05437a8b4419a6ca06e54f7e677b 	 Priority:9
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:424a0c0efde14924b776740cadd69686 	 Priority:2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:bfbdac4d47634596aaf3458ccfc64c07 	 Priority:5
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-4 	 Handler_C, Task:b03ec1a910b649a18fd87c994a1e5b61 	 Priority:5
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:7b626285305a49f48b5802525d15f303 	 Priority:3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:4508682fd4cd427db09a23f131c9b945 	 Priority:1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:33e563bc0d1643e8a943fb1d325e1d88 	 Priority:6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:e65816dce7b7440e92b2c7330dfe4174 	 Priority:8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:7c13a3d886c444b0897ac8c9570720da 	 Priority:10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:e99851b8d8ad48979c46b5e1a9052756 	 Priority:3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:9dd6b48e68dc4102a78f979023c0c4db 	 Priority:9
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:b21d4c04a055440eb8b8ad1a3cb07117 	 Priority:8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:34ba8970af424c99b9a0a9307ab5a3d6 	 Priority:8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:d38119deae314120b34160d764cc71aa 	 Priority:7
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:afb74e82166f4b7cac4631836df97257 	 Priority:8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:ba20a7aa350e40cebf2bc3dee1ccd4f0 	 Priority:9
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:4030f09ec289451091e928cb464062e8 	 Priority:5
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:e36a1b44f78043e6bc3624b7617b6339 	 Priority:3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:92d15715604d4fe6873e78c26989ea27 	 Priority:6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-4 	 Handler_C, Task:c089ddd5bd6f432eaeddc29845f4da5a 	 Priority:4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:cf37818bb3484292aa68d21b1534b555 	 Priority:2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:025a34d2bf4b44959818d670f699b8a7 	 Priority:9
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:be37c7b757dd4a208af541e04f123d2f 	 Priority:7
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:8e5680c3abc741e5a2ab9492b6fb6fc6 	 Priority:10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:9410f1cb408941d49b1239198ef83037 	 Priority:9
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:369f309d173643e681250a6f4bd7dc50 	 Priority:7
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:e204178718e843f598efdbf92ea8966c 	 Priority:10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:cc6c6e963a834374a9ef167553984bc4 	 Priority:9
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:b9f063eefe464f33b6db686ff16c26a5 	 Priority:5
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:9a6639a65bb94ca5aa6cdf4194fec9d6 	 Priority:8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:c0083f880d8f4a0dafb8904d05e6d0de 	 Priority:7
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:51f4a08476c74fce8b42f5fadb96ec04 	 Priority:10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:da15518570ef4a6aa1928f3f8ab7e4f4 	 Priority:9
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:1840edb89c45412b8cd92b8c02288f95 	 Priority:4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:31a89b3007b64b009b4163049d2153bf 	 Priority:9
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:8b609ee946524dac8b4e8a90909ffd3a 	 Priority:3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:0f039a14420c47dabe723c6edfa37633 	 Priority:2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:0cf823c0859c4013b38ef215563cb3ae 	 Priority:4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:fc9b31d759ad4e3abaadd0dea8970a4b 	 Priority:9
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-4 	 Handler_C, Task:bffde2d35a764ee48456e1a6f64bb98d 	 Priority:3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:a9048d3737d942398e1e5701cdda19f8 	 Priority:3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:d95cb17a81b1442498b5b08874ed9295 	 Priority:6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:3431dc904f344cb5b97b75d309304488 	 Priority:10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:cfe3c3a148314521bca552d41666f062 	 Priority:5
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:dd29e898073a4554858dd96992f06dfd 	 Priority:2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:eff8bcc4df644feb98237bbf2cc211fd 	 Priority:10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:56fb0a15121b42f3a8c09e468607f06e 	 Priority:7
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:72e2d9636a8e41bb9808e7a52663599b 	 Priority:8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:336077c642164890b62a8af26e7bb24f 	 Priority:2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:0c06be93893b467590ea19369cd64268 	 Priority:1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:49614f81ea4b47c799a0f15ce124c6ae 	 Priority:10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:4537ce67474f46cc99ea8e317a57ae79 	 Priority:8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:1697e2aa98114299b1a223574eafc186 	 Priority:4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-4 	 Handler_C, Task:7922f13f1403416f85497654c3de39fc 	 Priority:3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:138bbd0dd45b4f33abc7bb7aef953a42 	 Priority:10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:3a4c24331f554115ae9a30aa56b71d2a 	 Priority:5
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:de9119e1b662417da881a5ad0df443b0 	 Priority:2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:96c8f504386e4f2d8e2f528256b70cef 	 Priority:2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:494be5974f254bb599c07281c1468802 	 Priority:9
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:78ccc659885241d58c840a5efbe6aba8 	 Priority:1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:6499a02047fc437fa87e9dd515734310 	 Priority:2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:f5b899c4223e4008ab1c282923a99f36 	 Priority:9
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:7208e9a01df94ba1947fac5c01baa0e8 	 Priority:6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:6ae4172a0da04bf48c4fdfb950dba133 	 Priority:8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:78d4bbb14fd04317911f4bf1e2e701d2 	 Priority:1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:8179b4e0437541ebb0c6caba71ef62af 	 Priority:4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:f6e724191eb64b54910759b70e8efcd4 	 Priority:3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:a8d95590cd24415c98a455602d1a55d8 	 Priority:5
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:1a2c9f0ef16a4038ad1f528b6cb7c6b8 	 Priority:5
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:7b710ace9965471885a5b93decfafc1a 	 Priority:7
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:69e1b280525f496ebff73a0251ba9d91 	 Priority:1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:e357ba1ea4e244618b4ac90d0c65d4b6 	 Priority:1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:b17ca9c34acb4c978134a216bc57d5f1 	 Priority:1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:9b5a06e5b8ec4c81bd55c6c1781c1490 	 Priority:1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:4c6082199c1448709d423d027714d989 	 Priority:4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:2441020d42904dd7ab0b29a955612f58 	 Priority:5
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:d1be7f2596f34f8987b300d3c2f540d2 	 Priority:6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:726109da5a46463bbf810396622cdd53 	 Priority:6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:9c9b4d90dada4d9b8d40eaad8272d20d 	 Priority:7
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:3bd220b024664bdfaa823537a9052546 	 Priority:8
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:99541d06ca334d0699738b57b429e7b5 	 Priority:4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:6df5536dcf264700843362e061517686 	 Priority:4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:a2830a637675495197d6978b1b8a1a53 	 Priority:6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:7b2301a26bd142d59441ce48996c6735 	 Priority:9
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:f986edf4f5174c50b975b6d0676d4e92 	 Priority:10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:28a012d0d3104c20971325af9c00af3e 	 Priority:3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:b579dad2b2c64df0981e57b912525712 	 Priority:3
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:680b3a34593d4a32a8f1af09b20b9559 	 Priority:4
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:e48c29e34bd3424b9080e184fc24e313 	 Priority:6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:7ce300704bae40bf99a3b9e470cd4570 	 Priority:6
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:a62d4903ab584984a3172db4295fe962 	 Priority:10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:c0d6869d95744a1280eeeaf3eaa6d79d 	 Priority:10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:d238f192dd864015b35bc18e8f4f1329 	 Priority:1
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:add08a48f2174bdda8d1f00b20e71c36 	 Priority:2
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:cbf6b1f17069480587d357ff8e061d4a 	 Priority:9
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:2d66859c09c846009c140a55c2f383d0 	 Priority:10
+
+十一月 29, 2018 1:54:59 下午 IBM_Advancd.Basic_test_6_3$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:a6d73d20f99a4e1e8984a5ab27fd5c40 	 Priority:2
+

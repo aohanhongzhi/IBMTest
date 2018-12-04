@@ -1,0 +1,242 @@
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2 main
+信息: Main Thread has started!so the process has worked!
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：f65bb2cd42414d4c8f6d4d7c55db57a7 	 Submitt:C	 Task:f65bb2cd42414d4c8f6d4d7c55db57a7 	 executeTime:33251
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：6a3e55e57b754721a6a551855b723755 	 Submitt:B	 Task:6a3e55e57b754721a6a551855b723755 	 executeTime:87297
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：65fadc602f534fb6bbe1a295160e18f0 	 Submitt:B	 Task:65fadc602f534fb6bbe1a295160e18f0 	 executeTime:29641
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：9968fc6f42814a8581166bcb767d3b99 	 Submitt:C	 Task:9968fc6f42814a8581166bcb767d3b99 	 executeTime:14836
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：497ffcc607134b299819e2eeae7df8df 	 Submitt:C	 Task:497ffcc607134b299819e2eeae7df8df 	 executeTime:68180
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：54cd2386741a417399cf2498ebc0bd52 	 Submitt:B	 Task:54cd2386741a417399cf2498ebc0bd52 	 executeTime:63169
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：9763cea058cd4f1290f01d40de89232a 	 Submitt:A	 Task:9763cea058cd4f1290f01d40de89232a 	 executeTime:7049
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：893bf5235ce5482ebda73348d8bdc9ad 	 Submitt:B	 Task:893bf5235ce5482ebda73348d8bdc9ad 	 executeTime:63853
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：85e72fa1d33646dd88f232d075709191 	 Submitt:C	 Task:85e72fa1d33646dd88f232d075709191 	 executeTime:32398
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：3ce9710d926b4a74bad41d743606f249 	 Submitt:C	 Task:3ce9710d926b4a74bad41d743606f249 	 executeTime:79711
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：df4c795aecf8436491ba2b3de472edcf 	 Submitt:C	 Task:df4c795aecf8436491ba2b3de472edcf 	 executeTime:65847
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：eff24f817f79464db37e6907d68434a9 	 Submitt:B	 Task:eff24f817f79464db37e6907d68434a9 	 executeTime:12294
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：239e62844e6e4397bde47e7c4c3ac473 	 Submitt:A	 Task:239e62844e6e4397bde47e7c4c3ac473 	 executeTime:77683
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：0daca7ccadf94462b5b98a284bfe57e1 	 Submitt:C	 Task:0daca7ccadf94462b5b98a284bfe57e1 	 executeTime:67223
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：8cb07c8c46b642d59a83bd6ced0ed0d4 	 Submitt:A	 Task:8cb07c8c46b642d59a83bd6ced0ed0d4 	 executeTime:96199
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：fefc6722315b4f499df86e95604c4ca7 	 Submitt:B	 Task:fefc6722315b4f499df86e95604c4ca7 	 executeTime:32494
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：c142b40a1d8649e9ad42af32bc62ce20 	 Submitt:B	 Task:c142b40a1d8649e9ad42af32bc62ce20 	 executeTime:19616
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：85610f49a89f4c9898bb596e01b7125d 	 Submitt:A	 Task:85610f49a89f4c9898bb596e01b7125d 	 executeTime:23239
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：d2ef821da58a45feae7047f26f92ac33 	 Submitt:B	 Task:d2ef821da58a45feae7047f26f92ac33 	 executeTime:48158
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：2917391672c2485ab6e605e88ab0a799 	 Submitt:C	 Task:2917391672c2485ab6e605e88ab0a799 	 executeTime:93208
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：6584e98982a04e7ebf67ce3d3a871e7f 	 Submitt:B	 Task:6584e98982a04e7ebf67ce3d3a871e7f 	 executeTime:43582
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：312a4bf42a374480aaf3d65f8627cc1e 	 Submitt:B	 Task:312a4bf42a374480aaf3d65f8627cc1e 	 executeTime:60432
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：245a79066e9d41fab60012bceeac2682 	 Submitt:B	 Task:245a79066e9d41fab60012bceeac2682 	 executeTime:54866
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：acf106cb3a0f4ea4a90c8bb802ac5f61 	 Submitt:B	 Task:acf106cb3a0f4ea4a90c8bb802ac5f61 	 executeTime:55648
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：0cf7c6c4ae6240d5bda4624f8b1f2224 	 Submitt:B	 Task:0cf7c6c4ae6240d5bda4624f8b1f2224 	 executeTime:20267
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：205a442c7fd64dc289160fedf62e9037 	 Submitt:C	 Task:205a442c7fd64dc289160fedf62e9037 	 executeTime:84317
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：95acfdb525c7420d90116755ed53842b 	 Submitt:C	 Task:95acfdb525c7420d90116755ed53842b 	 executeTime:10073
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：87c8ebeca70241ac8b0134851b5e0e46 	 Submitt:A	 Task:87c8ebeca70241ac8b0134851b5e0e46 	 executeTime:66768
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:9968fc6f42814a8581166bcb767d3b99 executeTime:14836 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：05bac5a7135e49e1bc134656f65b5642 	 Submitt:C	 Task:05bac5a7135e49e1bc134656f65b5642 	 executeTime:3852
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：ca9a138b385343388264a6712fb7a2ef 	 Submitt:A	 Task:ca9a138b385343388264a6712fb7a2ef 	 executeTime:96293
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：4da09d5028154238bc0373cfd0857203 	 Submitt:C	 Task:4da09d5028154238bc0373cfd0857203 	 executeTime:51839
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:eff24f817f79464db37e6907d68434a9 executeTime:12294 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：04076628d81347488acf24308ed63a77 	 Submitt:B	 Task:04076628d81347488acf24308ed63a77 	 executeTime:25347
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：4c78ff75865b4bbb937e97c69f0fba62 	 Submitt:A	 Task:4c78ff75865b4bbb937e97c69f0fba62 	 executeTime:81577
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：92c12ff5c7b34308ac26ce1a9edf98a5 	 Submitt:C	 Task:92c12ff5c7b34308ac26ce1a9edf98a5 	 executeTime:64687
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：3db9b0bd1c0b4cadb259906816005ffc 	 Submitt:B	 Task:3db9b0bd1c0b4cadb259906816005ffc 	 executeTime:89957
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:f65bb2cd42414d4c8f6d4d7c55db57a7 executeTime:33251 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：d591f8e69b3e45f9b4cbc5b57a1b8228 	 Submitt:A	 Task:d591f8e69b3e45f9b4cbc5b57a1b8228 	 executeTime:2875
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：dfc5e03304344ed78ce711ecb8b8f0a8 	 Submitt:B	 Task:dfc5e03304344ed78ce711ecb8b8f0a8 	 executeTime:82408
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：758fc801170a4e40a8a19fc15fc4d814 	 Submitt:C	 Task:758fc801170a4e40a8a19fc15fc4d814 	 executeTime:88030
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-3-thread-4 	 Handler_C, Task:05bac5a7135e49e1bc134656f65b5642 executeTime:3852 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：d20dbd6bf679466397f2968d8d73ca49 	 Submitt:C	 Task:d20dbd6bf679466397f2968d8d73ca49 	 executeTime:29567
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$Submit run
+信息: SubmitThread：c8ead0eeab4f4de9a3951f0140839911 	 Submitt:C	 Task:c8ead0eeab4f4de9a3951f0140839911 	 executeTime:12393
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:9763cea058cd4f1290f01d40de89232a executeTime:7049 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:65fadc602f534fb6bbe1a295160e18f0 executeTime:29641 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:c142b40a1d8649e9ad42af32bc62ce20 executeTime:19616 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:95acfdb525c7420d90116755ed53842b executeTime:10073 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:d591f8e69b3e45f9b4cbc5b57a1b8228 executeTime:2875 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:85610f49a89f4c9898bb596e01b7125d executeTime:23239 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:85e72fa1d33646dd88f232d075709191 executeTime:32398 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:0cf7c6c4ae6240d5bda4624f8b1f2224 executeTime:20267 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:fefc6722315b4f499df86e95604c4ca7 executeTime:32494 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:c8ead0eeab4f4de9a3951f0140839911 executeTime:12393 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:6584e98982a04e7ebf67ce3d3a871e7f executeTime:43582 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:04076628d81347488acf24308ed63a77 executeTime:25347 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:d2ef821da58a45feae7047f26f92ac33 executeTime:48158 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:54cd2386741a417399cf2498ebc0bd52 executeTime:63169 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-3-thread-4 	 Handler_C, Task:d20dbd6bf679466397f2968d8d73ca49 executeTime:29567 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:893bf5235ce5482ebda73348d8bdc9ad executeTime:63853 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:df4c795aecf8436491ba2b3de472edcf executeTime:65847 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:497ffcc607134b299819e2eeae7df8df executeTime:68180 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:4da09d5028154238bc0373cfd0857203 executeTime:51839 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:0daca7ccadf94462b5b98a284bfe57e1 executeTime:67223 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:245a79066e9d41fab60012bceeac2682 executeTime:54866 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:acf106cb3a0f4ea4a90c8bb802ac5f61 executeTime:55648 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:312a4bf42a374480aaf3d65f8627cc1e executeTime:60432 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:3ce9710d926b4a74bad41d743606f249 executeTime:79711 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-2-thread-3 	 Handler_B, Task:6a3e55e57b754721a6a551855b723755 executeTime:87297 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:239e62844e6e4397bde47e7c4c3ac473 executeTime:77683 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:87c8ebeca70241ac8b0134851b5e0e46 executeTime:66768 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-3-thread-4 	 Handler_C, Task:92c12ff5c7b34308ac26ce1a9edf98a5 executeTime:64687 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-3-thread-2 	 Handler_C, Task:2917391672c2485ab6e605e88ab0a799 executeTime:93208 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-3-thread-3 	 Handler_C, Task:205a442c7fd64dc289160fedf62e9037 executeTime:84317 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:8cb07c8c46b642d59a83bd6ced0ed0d4 executeTime:96199 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-1-thread-1 	 Handler_A, Task:4c78ff75865b4bbb937e97c69f0fba62 executeTime:81577 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-2-thread-1 	 Handler_B, Task:dfc5e03304344ed78ce711ecb8b8f0a8 executeTime:82408 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-1-thread-2 	 Handler_A, Task:ca9a138b385343388264a6712fb7a2ef executeTime:96293 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-3-thread-1 	 Handler_C, Task:758fc801170a4e40a8a19fc15fc4d814 executeTime:88030 
+
+十一月 29, 2018 4:35:26 下午 ibm_seond.Advanced_test_6_2$TaskRunnable run
+信息: pool-2-thread-2 	 Handler_B, Task:3db9b0bd1c0b4cadb259906816005ffc executeTime:89957 
+
